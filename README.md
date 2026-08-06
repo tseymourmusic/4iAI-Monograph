@@ -79,7 +79,7 @@ The moral compass of the modern creator is therefore defined by a simple choice:
 
 To maintain **A**rtistic **I**ntegrity, the foundational pillars of the collaborative symbiotic circuit resolve into a four-stage creative process. Notice the strict symmetry balancing the scales: human emotion anchors the spark (Step I) and the moral filter (Step III), while synthetic intelligence matches the speed (Step II) and provides validation (Step IV).
 
-4iAI-framework.png
+/4iAI-framework.png
 
 ### I. **I**dea (*Human Catalyst*)
 
