@@ -5,6 +5,7 @@ date: "2026-08-06"
 description: "A benchmark framework solving cognitive masking and translation tax for high-capacity creators through symbiotic human-AI circuits."
 tags: [human-ai, neurodiversity, artistic-integrity, cognitive-science]
 ---
+[![DOI](https://zenodo.org/badge/1325533231.svg)](https://doi.org/10.5281/zenodo.21827755)
 # The 4i’s of Artistic Integrity™
 
 **I**DEA · **I**NSPIRATION · **I**NTROSPECTION · **I**NTEGRATION
