@@ -1,24 +1,13 @@
-**---**
-
-**title: "MASTER DOSSIER: The Architecture of Asymmetry"**
-
-**subtitle: "Multi-Valued Operational Mechanics and Symbiotic Self-Taxonomy in Twice-Exceptional (2e) Human-AI Systems"**
-
-**author: "Tim Seymour, CGMA, ACMA"**
-
-**date: "2026-08-08"**
-
-**description: "A comprehensive systems architecture operationalising multi-valued asymmetry, neuro-somatic biological defence, and 4iAI cybernetic resonance for twice-exceptional (2e) adults."**
-
-**tags: \[twice-exceptional, 2e, human-ai, neurodivergence, cybernetics, neuro-somatic, systems-engineering, cognitive-science, asymmetric]**
-
-**---**
-
-
+---
+title: "MASTER DOSSIER: The Architecture of Asymmetry"
+subtitle: "Multi-Valued Operational Mechanics and Symbiotic Self-Taxonomy in Twice-Exceptional (2e) Human-AI Systems"
+author: "Tim Seymour, CGMA, ACMA"
+date: "2026-08-08"
+description: "A comprehensive systems architecture operationalising multi-valued asymmetry, neuro-somatic biological defence, and 4iAI cybernetic resonance for twice-exceptional (2e) adults."
+tags: \[twice-exceptional, 2e, human-ai, neurodivergence, cybernetics, neuro-somatic, systems-engineering, cognitive-science, asymmetric]
+---
 
 **\[!\[DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21827756.svg)](https://doi.org/10.5281/zenodo.21827756)**
-
-
 
 # **MASTER DOSSIER: The Architecture of Asymmetry**
 
