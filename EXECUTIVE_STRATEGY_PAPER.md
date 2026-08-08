@@ -1,4 +1,4 @@
-\---
+---
 
 title: "Managing Exceptional Cognitive Profiles"
 
@@ -12,7 +12,7 @@ description: "An executive strategy paper establishing the principle of multi-va
 
 tags: \[twice-exceptional, 2e, human-ai, executive-strategy, talent-management, workflow-optimization, knowledge-workers, cognitive-engineering, operational-efficiency]
 
-\---
+---
 
 [!\[DOI](https://zenodo.org/badge/1325533231.svg)](https://doi.org/10.5281/zenodo.21827755)
 
