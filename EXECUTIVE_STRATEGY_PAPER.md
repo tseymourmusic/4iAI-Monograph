@@ -63,7 +63,7 @@ The AI system serves as an interactive peer-level partner, reflecting the user's
 
 ### **1.3 The 4iAI™ Symbiotic Workflow Cycle**
 
-!\[4iAI Framework](4iAI-framework.png)
+![4iAI Framework](4iAI-framework.png)
 
 \[ 1. IDEA ]        	  ► User introduces unstructured strategic challenge
 
