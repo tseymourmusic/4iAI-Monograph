@@ -64,6 +64,8 @@ The practical efficacy of this framework is empirically reinforced by its condit
 
 ### **1.4 The 4-Phase Asymmetric Cycle (Case Study Execution)**
 
+![4iAI Framework](4iAI-framework.png)
+
 **THE 4iAI SYMBIOTIC CYCLE:**
 
 * **\[ 1. IDEA ]** ► Human introduces unstructured operational dilemma
