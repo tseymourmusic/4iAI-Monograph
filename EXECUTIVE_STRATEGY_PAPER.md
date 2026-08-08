@@ -10,7 +10,7 @@ date: "2026-08-08"
 
 description: "An executive strategy paper establishing the principle of multi-valued efficiency, peer-level AI workflows, and somatic energy management for twice-exceptional (2e) talent in traditional enterprise operating environments."
 
-tags: \[twice-exceptional, 2e, human-ai, executive-strategy, talent-management, workflow-optimization, knowledge-workers, cognitive-engineering, operational-efficiency]
+tags: [twice-exceptional, 2e, human-ai, executive-strategy, talent-management, workflow-optimization, knowledge-workers, cognitive-engineering, operational-efficiency]
 
 ---
 
