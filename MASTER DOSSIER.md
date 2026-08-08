@@ -7,7 +7,7 @@ description: "A comprehensive systems architecture operationalising multi-valued
 tags: \[twice-exceptional, 2e, human-ai, neurodivergence, cybernetics, neuro-somatic, systems-engineering, cognitive-science, asymmetric]
 ---
 
-**\[!\[DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21827756.svg)](https://doi.org/10.5281/zenodo.21827756)**
+**\[![DOI](https://zenodo.org/badge/1325533231.svg)](https://doi.org/10.5281/zenodo.21827755)**
 
 # **MASTER DOSSIER: The Architecture of Asymmetry**
 
