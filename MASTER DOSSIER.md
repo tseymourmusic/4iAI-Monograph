@@ -4,7 +4,7 @@ subtitle: "Multi-Valued Operational Mechanics and Symbiotic Self-Taxonomy in Twi
 author: "Tim Seymour, CGMA, ACMA"
 date: "2026-08-08"
 description: "A comprehensive systems architecture operationalising multi-valued asymmetry, neuro-somatic biological defence, and 4iAI cybernetic resonance for twice-exceptional (2e) adults."
-tags: \[twice-exceptional, 2e, human-ai, neurodivergence, cybernetics, neuro-somatic, systems-engineering, cognitive-science, asymmetric]
+tags: [twice-exceptional, 2e, human-ai, neurodivergence, cybernetics, neuro-somatic, systems-engineering, cognitive-science, asymmetric]
 ---
 
 [![DOI](https://zenodo.org/badge/1325533231.svg)](https://doi.org/10.5281/zenodo.21827755)
