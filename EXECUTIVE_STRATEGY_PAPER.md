@@ -14,7 +14,7 @@ tags: \[twice-exceptional, 2e, human-ai, executive-strategy, talent-management, 
 
 ---
 
-[!\[DOI](https://zenodo.org/badge/1325533231.svg)](https://doi.org/10.5281/zenodo.21827755)
+[![DOI](https://zenodo.org/badge/1325533231.svg)](https://doi.org/10.5281/zenodo.21827755)
 
 # **EXECUTIVE STRATEGY PAPER**
 
