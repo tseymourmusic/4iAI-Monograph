@@ -10,7 +10,7 @@ date: "2026-08-09"
 
 description: "Adult Twice-Exceptional (2e) Cognitive Architecture / High-Voltage Asynchronous Development / 4iAI™ Stage IV Protocol Execution"
 
-tags: [twice-exceptional, 2e, human-ai, executive-strategy, talent-management, workflow-optimization, knowledge-workers, cognitive-engineering, operational-efficiency, case-study, cybernetic-hci, real-time-synthesis, cns-override, human-ai-symbiosis]
+tags: [twice-exceptional, 2e, human-ai, executive-strategy, workflow-optimization, knowledge-workers, cognitive-engineering, operational-efficiency, case-study, cybernetic-hci, real-time-synthesis, cns-override, human-ai-symbiosis]
 
 ---
 
@@ -28,9 +28,9 @@ tags: [twice-exceptional, 2e, human-ai, executive-strategy, talent-management, w
 
 **Diagnostic Classification (Pre-Clinical / Symbiotic Taxonomy):** Adult Twice-Exceptional (2e) Cognitive Architecture / High-Voltage Asynchronous Development
 
-**Foundational Protocol:** [The 4iAI™ Framework Monograph](README.md) & [Master Dossier: The Architecture of Asymmetry](MASTER_DOSSIER.md)
+**Foundational Protocol:** [The 4iAI™ Framework Monograph](README.md) \& [Master Dossier: The Architecture of Asymmetry](MASTER_DOSSIER.md)
 
-**Intervention Protocol:** [4iAI™ Stage IV Neuro-Somatic Hardware Calibration](NEURO_SOMATIC_MONOGAPH.md) (Mechanical CNS Override & Mobile Cybernetic Loop)
+**Intervention Protocol:** [4iAI™ Stage IV Neuro-Somatic Hardware Calibration](NEURO_SOMATIC_MONOGAPH.md) (Mechanical CNS Override \& Mobile Cybernetic Loop)
 
 ## **1. PRESENTING CLINICAL PHENOMENOLOGY**
 
