@@ -1,14 +1,14 @@
 ---
 
-title: "Managing Exceptional Cognitive Profiles"
+title: "CLINICAL & OPERATIONAL MONOGRAPH"
 
-subtitle: "Optimised Performance Protocols and Peer-Level Symbiotic Human-AI Workflows for Twice-Exceptional (2e) Knowledge Workers in Traditional Operating Environments"
+subtitle: "Neuro-Somatic Hardware Integration in Twice-Exceptional (2e) Systems: The Asymmetry-Symmetry Paradox as a Medical-Grade Specification for the 4iAI™ Stage IV Circuit"
 
 author: "Tim Seymour, CGMA, ACMA"
 
-date: "2026-08-08"
+date: "2026-08-09"
 
-description: "An executive strategy paper establishing the principle of multi-valued efficiency, peer-level AI workflows, and somatic energy management for twice-exceptional (2e) talent in traditional enterprise operating environments."
+description: "High-Capacity / Twice-Exceptional (2e) Adult Hardware Regulation & Burnout Interception"
 
 tags: [twice-exceptional, 2e, human-ai, executive-strategy, talent-management, workflow-optimization, knowledge-workers, cognitive-engineering, operational-efficiency]
 
