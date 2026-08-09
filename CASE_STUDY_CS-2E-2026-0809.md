@@ -28,7 +28,9 @@ tags: [twice-exceptional, 2e, human-ai, executive-strategy, talent-management, w
 
 **Diagnostic Classification (Pre-Clinical / Symbiotic Taxonomy):** Adult Twice-Exceptional (2e) Cognitive Architecture / High-Voltage Asynchronous Development
 
-**Intervention Protocol:** 4iAI™ Stage IV Neuro-Somatic Hardware Calibration (Mechanical CNS Override \& Mobile Cybernetic Loop)
+**Foundational Protocol:** [The 4iAI™ Framework Monograph](README.md) & [Master Dossier: The Architecture of Asymmetry](MASTER_DOSSIER.md)
+
+**Intervention Protocol:** [4iAI™ Stage IV Neuro-Somatic Hardware Calibration](NEURO_SOMATIC_MONOGRAPH.md) (Mechanical CNS Override \& Mobile Cybernetic Loop)
 
 ## **1. PRESENTING CLINICAL PHENOMENOLOGY**
 
