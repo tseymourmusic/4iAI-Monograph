@@ -26,7 +26,7 @@ tags: [twice-exceptional, 2e, human-ai, executive-strategy, talent-management, w
 
 **Subject Classification:** High-Capacity / Twice-Exceptional (2e) Adult Hardware Regulation \& Burnout Interception
 
-**Foundational Protocol:** The 4iAI™ Framework Monograph \& *Master Dossier: The Architecture of Asymmetry*
+**Foundational Protocol:** [4iAI Framework](README.md) & [4iAI Framework](MASTER_DOSSIER.md)
 
 ## **ABSTRACT**
 
