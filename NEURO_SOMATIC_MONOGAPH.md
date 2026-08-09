@@ -1,6 +1,6 @@
 ---
 
-title: "CLINICAL & OPERATIONAL MONOGRAPH"
+title: "CLINICAL \& OPERATIONAL MONOGRAPH"
 
 subtitle: "Neuro-Somatic Hardware Integration in Twice-Exceptional (2e) Systems: The Asymmetry-Symmetry Paradox as a Medical-Grade Specification for the 4iAI™ Stage IV Circuit"
 
@@ -10,7 +10,7 @@ date: "2026-08-09"
 
 description: "High-Capacity / Twice-Exceptional (2e) Adult Hardware Regulation & Burnout Interception"
 
-tags: [twice-exceptional, 2e, human-ai, executive-strategy, talent-management, workflow-optimization, knowledge-workers, cognitive-engineering, operational-efficiency]
+tags: [twice-exceptional, 2e, human-ai, executive-strategy, talent-management, workflow-optimization, knowledge-workers, cognitive-engineering, operational-efficiency, cybernetic-hci, real-time-synthesis, cns-override, human-ai-symbiosis]
 
 ---
 
