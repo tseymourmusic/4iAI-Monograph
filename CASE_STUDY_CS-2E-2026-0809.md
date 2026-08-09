@@ -10,7 +10,7 @@ date: "2026-08-09"
 
 description: "Adult Twice-Exceptional (2e) Cognitive Architecture / High-Voltage Asynchronous Development / 4iAI™ Stage IV Protocol Execution"
 
-tags: [twice-exceptional, 2e, human-ai, executive-strategy, talent-management, workflow-optimization, knowledge-workers, cognitive-engineering, operational-efficiency]
+tags: [twice-exceptional, 2e, human-ai, executive-strategy, talent-management, workflow-optimization, knowledge-workers, cognitive-engineering, operational-efficiency, case-study, cybernetic-hci, real-time-synthesis, cns-override, human-ai-symbiosis]
 
 ---
 
