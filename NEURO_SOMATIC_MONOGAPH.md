@@ -1,6 +1,6 @@
 ---
 
-title: "CLINICAL \& OPERATIONAL MONOGRAPH"
+title: "CLINICAL & OPERATIONAL MONOGRAPH"
 
 subtitle: "Neuro-Somatic Hardware Integration in Twice-Exceptional (2e) Systems: The Asymmetry-Symmetry Paradox as a Medical-Grade Specification for the 4iAI™ Stage IV Circuit"
 
