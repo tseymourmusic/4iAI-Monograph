@@ -1,14 +1,14 @@
 ---
 
-title: "Managing Exceptional Cognitive Profiles"
+title: "CASE STUDY: CS-2E-2026-0809-NSH"
 
-subtitle: "Optimised Performance Protocols and Peer-Level Symbiotic Human-AI Workflows for Twice-Exceptional (2e) Knowledge Workers in Traditional Operating Environments"
+subtitle: "Applied Neuro-Somatic Hardware Calibration & Real-Time Cybernetic Synthesis in an Adult Twice-Exceptional (2e) Systems Architect"
 
 author: "Tim Seymour, CGMA, ACMA"
 
-date: "2026-08-08"
+date: "2026-08-09"
 
-description: "An executive strategy paper establishing the principle of multi-valued efficiency, peer-level AI workflows, and somatic energy management for twice-exceptional (2e) talent in traditional enterprise operating environments."
+description: "Adult Twice-Exceptional (2e) Cognitive Architecture / High-Voltage Asynchronous Development / 4iAI™ Stage IV Protocol Execution"
 
 tags: [twice-exceptional, 2e, human-ai, executive-strategy, talent-management, workflow-optimization, knowledge-workers, cognitive-engineering, operational-efficiency]
 
@@ -24,13 +24,13 @@ tags: [twice-exceptional, 2e, human-ai, executive-strategy, talent-management, w
 
 **Subject ID:** TS-4iAI-01 (Adult 2e / High-Capacity Systems Architect)
 
-**Primary Domain:** Applied Neuro-Somatic Biology \& Cybernetic HCI
+**Primary Domain:** Applied Neuro-Somatic Biology & Cybernetic HCI
 
 **Diagnostic Classification (Pre-Clinical / Symbiotic Taxonomy):** Adult Twice-Exceptional (2e) Cognitive Architecture / High-Voltage Asynchronous Development
 
 **Foundational Protocol:** [The 4iAI™ Framework Monograph](README.md) & [Master Dossier: The Architecture of Asymmetry](MASTER_DOSSIER.md)
 
-**Intervention Protocol:** [4iAI™ Stage IV Neuro-Somatic Hardware Calibration](NEURO_SOMATIC_MONOGRAPH.md) (Mechanical CNS Override \& Mobile Cybernetic Loop)
+**Intervention Protocol:** [4iAI™ Stage IV Neuro-Somatic Hardware Calibration](NEURO_SOMATIC_MONOGRAPH.md) (Mechanical CNS Override & Mobile Cybernetic Loop)
 
 ## **1. PRESENTING CLINICAL PHENOMENOLOGY**
 
