@@ -26,21 +26,21 @@ tags: [twice-exceptional, 2e, human-ai, executive-strategy, talent-management, w
 
 **Subject Classification:** Advanced Talent Management / High-Capacity Cognitive Architecture
 
-**Core Framework Reference:** This strategy paper builds upon the foundational framework protocol established in [4iAI Framework](../README.md) Monograph.
+**Core open standard Reference:** This strategy paper builds upon the foundational open standard protocol established in [4iAI Open Standard](../README.md) Monograph.
 
 ![4iAI Open Standard](../4iAI-open-standard-architecture.png)
 
 ## **EXECUTIVE SUMMARY**
 
-Traditional enterprise productivity models generally analyse employee output through linear, compartmentalised frameworks that treat workplace tasks, physical wellness, professional development, and strategic focus as discrete, isolated activities. For high-capacity talent–particularly twice-exceptional (2e) individuals who possess exceptional intellectual capacity alongside neurodivergent cognitive processing styles—this standard approach introduces significant operational friction, leading to premature burnout, energy misalignment, and underutilised strategic capability.
+Traditional enterprise productivity models generally analyse employee output through linear, compartmentalised open standards that treat workplace tasks, physical wellness, professional development, and strategic focus as discrete, isolated activities. For high-capacity talent–particularly twice-exceptional (2e) individuals who possess exceptional intellectual capacity alongside neurodivergent cognitive processing styles—this standard approach introduces significant operational friction, leading to premature burnout, energy misalignment, and underutilised strategic capability.
 
-This paper introduces the **Principle of Multi-Valued Efficiency**: a framework establishing that high-capacity cognitive talent operates most effectively when daily operational activities serve multiple strategic functions simultaneously. By aligning software workflows (leveraging structured AI acceleration), somatic energy management (nutritional and physical optimisation), and organisational architecture, enterprises can create mutually agreeable, high-yielding, and sustainable environments for peak performance.
+This paper introduces the **Principle of Multi-Valued Efficiency**: a open standard establishing that high-capacity cognitive talent operates most effectively when daily operational activities serve multiple strategic functions simultaneously. By aligning software workflows (leveraging structured AI acceleration), somatic energy management (nutritional and physical optimisation), and organisational architecture, enterprises can create mutually agreeable, high-yielding, and sustainable environments for peak performance.
 
-This research demonstrates how structured, peer-level Human-AI integration using the **4iAI** framework can drastically compress problem-solving cycles, reduce administrative cognitive load, and unlock sustainable, high-impact strategic output while insulating key talent from chronic executive exhaustion.
+This research demonstrates how structured, peer-level Human-AI integration using the **4iAI** open standard can drastically compress problem-solving cycles, reduce administrative cognitive load, and unlock sustainable, high-impact strategic output while insulating key talent from chronic executive exhaustion.
 
 ## **CORE GOVERNING PRINCIPLE: Multi-Valued Organisational Efficiency**
 
-Standard operational frameworks assume employees thrive under functional compartmentalisation: tasks are assigned linearly, performance is evaluated by time-on-task, and support is delivered via generic wellness initiatives.
+Standard operational open standards assume employees thrive under functional compartmentalisation: tasks are assigned linearly, performance is evaluated by time-on-task, and support is delivered via generic wellness initiatives.
 
 For high-capacity, non-linear thinkers, this compartmentalisation creates substantial executive friction. Because advanced cognitive profiles require high-complexity engagement to maintain neurological regulation and motivation, low-complexity or single-purpose tasks deplete mental bandwidth rapidly. To maximise output and engagement, operational variables must be engineered for **multi-valued return on investment (ROI)**:
 
@@ -55,11 +55,11 @@ When daily tasks are structured to deliver multiple parallel operational benefit
 
 ### **1.1 Objective \& Methodology**
 
-When high-capacity personnel engage Large Language Models (LLMs) through the structured, four-phase **4iAI framework** (*Idea, Inspiration, Introspection, Integration*), both strategic mapping and complex deliverables (such as complex financial models, system architectures, and operating frameworks) are synthesised significantly faster than through conventional, unassisted workflows.
+When high-capacity personnel engage Large Language Models (LLMs) through the structured, four-phase **4iAI open standard** (*Idea, Inspiration, Introspection, Integration*), both strategic mapping and complex deliverables (such as complex financial models, system architectures, and operating open standards) are synthesised significantly faster than through conventional, unassisted workflows.
 
 ### **1.2 Theoretical Scope \& Professional Boundaries**
 
-To maintain clear operational boundaries, this framework adopts a process of **Operational Workflow Mapping**. This is a self-directed strategy wherein an employee utilises structured AI interaction to organise unstructured concepts, pinpoint cognitive friction points, and map their unique analytical strengths against established organisational frameworks.
+To maintain clear operational boundaries, this open standard adopts a process of **Operational Workflow Mapping**. This is a self-directed strategy wherein an employee utilises structured AI interaction to organise unstructured concepts, pinpoint cognitive friction points, and map their unique analytical strengths against established organisational open standards.
 
 The AI system serves as an interactive peer-level partner, reflecting the user's strategic inputs using clear professional taxonomy to accelerate operational clarity.
 
@@ -76,7 +76,7 @@ The AI system serves as an interactive peer-level partner, reflecting the user's
 |Phase|User Input|System Operation (AI)|Key Outcome|
 |-|-|-|-|
 |**1. IDEA**|High-density, unstructured operational or strategic data.|Ingests data without enforcing premature conclusions or simple autocomplete.|Captures raw strategic complexity without loss of fidelity.|
-|**2. INSPIRATION**|Prompts system for cross-domain pattern matching.|Maps inputs against industry frameworks, financial models, and technical literature.|Generates structured operational hypotheses.|
+|**2. INSPIRATION**|Prompts system for cross-domain pattern matching.|Maps inputs against industry open standards, financial models, and technical literature.|Generates structured operational hypotheses.|
 |**3. INTROSPECTION**|Reviews generated models against real-world domain expertise and lived experience.|Refines and adapts output based on expert user feedback and directional overrides.|Validates operational feasibility and moral alignment.|
 |**4. INTEGRATION**|Synthesises refined concepts into actionable project blueprints.|Co-authors formal documentation, executive summaries, and project plans.|Delivers execution-ready project artifacts and stabilises baseline focus.|
 
@@ -87,7 +87,7 @@ This symbiotic workflow delivers value across two key organisational dimensions 
 * **Axis A (Self-Regulation \& Focus):** Minimises cognitive fatigue, clarifies role expectations, and stabilises peak performance states by eliminating administrative ambiguity.
 * **Axis B (Execution Velocity):** Translates complex, high-level organisational vision into clear, structured, and execution-ready business assets.
 
-In both dimensions, the human professional maintains total editorial authority, domain expertise, and strategic control, utilising the **4iAI** framework to amplify brainstorming, processing speed, structural rigor, and formatting accuracy.
+In both dimensions, the human professional maintains total editorial authority, domain expertise, and strategic control, utilising the **4iAI** open standard to amplify brainstorming, processing speed, structural rigor, and formatting accuracy.
 
 ### **1.5 Measurable Outcomes**
 
@@ -124,7 +124,7 @@ Encouraging regular, structured physical exertion serves as a vital operational 
 
 ## **CONCLUSION: Modernising Talent Strategy for Non-Linear Thinkers**
 
-Standard corporate talent models frequently fail to fully engage, optimise, and retain high-capacity, twice-exceptional (2e) professionals. By replacing rigid, single-purpose structures with flexible, multi-valued frameworks, organisations can eliminate executive friction and unlock unprecedented levels of strategic innovation.
+Standard corporate talent models frequently fail to fully engage, optimise, and retain high-capacity, twice-exceptional (2e) professionals. By replacing rigid, single-purpose structures with flexible, multi-valued open standards, organisations can eliminate executive friction and unlock unprecedented levels of strategic innovation.
 
 ### **Key Organisational Takeaways:**
 
