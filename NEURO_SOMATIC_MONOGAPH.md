@@ -28,7 +28,7 @@ tags: [twice-exceptional, 2e, human-ai, executive-strategy, talent-management, w
 
 **Foundational Protocol:** [The 4iAI™ Framework Monograph](README.md) \& [Master Dossier: The Architecture of Asymmetry](MASTER_DOSSIER.md)
 
-![4iAI Framework](4iAI-framework.png)
+![4iAI Open Standard](4iAI-open-standard-architecture.png)
 
 ## **ABSTRACT**
 
