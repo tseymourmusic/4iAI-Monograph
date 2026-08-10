@@ -1,6 +1,6 @@
 ---
 
-title: "CURRICULUM FRAMEWORK: THE 4iAI™ COGNITIVE ACCELERATOR"
+title: "CURRICULUM OPEN STANDARD: THE 4iAI™ COGNITIVE ACCELERATOR"
 
 subtitle: "Shifting Student Behaviour from Passive Consumption ('The Passable') to Active Intellectual Ownership ('The Profound')"
 
@@ -10,21 +10,21 @@ date: "2026-08-10"
 
 description: "An operational specification for embedding the 4iAI™ 4-stage classroom cycle into secondary and higher education, shifting grading focus from raw AI output to Stage III Introspection."
 
-tags: [4iai, curriculum-framework, cognitive-accelerator, introspection-audit, secondary-education, higher-education, academic-integrity, human-ai-symbiosis, subverting-the-passable, assessment-framework]
+tags: [4iai, curriculum-open standard, cognitive-accelerator, introspection-audit, secondary-education, higher-education, academic-integrity, human-ai-symbiosis, subverting-the-passable, assessment-open standard]
 
 ---
 
 [![DOI](https://zenodo.org/badge/1325533231.svg)](https://doi.org/10.5281/zenodo.21827755)
 
-# **CURRICULUM FRAMEWORK: THE 4iAI™ COGNITIVE ACCELERATOR**
+# **CURRICULUM OPEN STANDARD: THE 4iAI™ COGNITIVE ACCELERATOR**
 
-**Target Audience:** Secondary \& Higher Education (STEM, Humanities, Business)
+**Target Audience:** Secondary and Higher Education (STEM, Humanities, Business)
 
 **Core Objective:** Shift student behaviour from passive consumption ("The Passable") to active intellectual ownership ("The Profound").
 
 **Grading Philosophy:** Students are graded **not** on the initial AI output, but on the quality and depth of their Stage III Introspection and final human calibration.
 
-**Foundational Protocol:** [The 4iAI™ Framework Monograph](README.md) \& [Education Monograph: The 4iAI™ Introspection Protocol](EDUCATION_MONOGRAPH.md)
+**Foundational Protocol:** [The 4iAI™ open standard Monograph](README.md) and [Education Monograph: The 4iAI™ Introspection Protocol](EDUCATION_MONOGRAPH.md)
 
 ![4iAI Open Standard](4iAI-open-standard-architecture.png)
 
@@ -33,7 +33,7 @@ tags: [4iai, curriculum-framework, cognitive-accelerator, introspection-audit, s
 |Traditional Assignment (Broken)|The 4iAI™ Assignment Standard|
 |-|-|
 |**Goal:** Produce a final written document.|**Goal:** Demonstrate the intellectual journey from draft to verification.|
-|**AI Role:** Secret shortcut or outright banned tool.|**AI Role:** Stage II "Inspiration Engine" \& Dialectical Mirror.|
+|**AI Role:** Secret shortcut or outright banned tool.|**AI Role:** Stage II "Inspiration Engine" and Dialectical Mirror.|
 |**Student Role:** Transcriber / Copy-Paster.|**Student Role:** Lead Architect, Editor, and Truth Filter.|
 |**Evidence:** The final text block.|**Evidence:** The **Introspection Audit Log** + Calibrated Deliverable.|
 
@@ -57,9 +57,9 @@ The student subjects the Stage II output to rigorous critique, factual verificat
 
 * **Student Action:** Complete the **Introspection Audit** using three mandatory lenses:
 
-  1. **Fact \& Source Verification:** Identify 3 specific assertions made by the AI. Find primary or secondary sources that either confirm or debunk them.
-  2. **Bias \& Hallucination Spotting:** Highlight generic filler, unstated assumptions, or structural gaps in the AI's logic.
-  3. **Voice \& Personal Synthesis:** Identify where the AI output strays from the student's original Stage I intent.
+  1. **Fact and Source Verification:** Identify 3 specific assertions made by the AI. Find primary or secondary sources that either confirm or debunk them.
+  2. **Bias and Hallucination Spotting:** Highlight generic filler, unstated assumptions, or structural gaps in the AI's logic.
+  3. **Voice and Personal Synthesis:** Identify where the AI output strays from the student's original Stage I intent.
 
 \*\*Stage IV: Integration (The Profound Artifact):\*\*Final human-driven deliverable.  
 The student merges their Stage III audit with the raw material to construct the final work.
@@ -79,7 +79,7 @@ To operationalize this in daily coursework, students attach this standardized 1-
 \[STAGE II: RAW AI OUTPUT SUMMARY]  
 "What did the AI generate? (Attach raw output as Appendix A)" →
 
-\[STAGE III: INTROSPECTION \& CRITIQUE]
+\[STAGE III: INTROSPECTION AND CRITIQUE]
 
 |AI Assertion / Claim|Verification Status (True/False)|Source Evidence or Logical Correction|
 |-|-|-|
