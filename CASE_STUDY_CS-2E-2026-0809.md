@@ -32,7 +32,7 @@ tags: [twice-exceptional, 2e, human-ai, executive-strategy, workflow-optimizatio
 
 **Intervention Protocol:** [4iAI™ Stage IV Neuro-Somatic Hardware Calibration](NEURO_SOMATIC_MONOGAPH.md) (Mechanical CNS Override \& Mobile Cybernetic Loop)
 
-![4iAI Framework](4iAI-framework.png)
+![4iAI Open Standard](4iAI-open-standard-architecture.png)
 
 ## **1. PRESENTING CLINICAL PHENOMENOLOGY**
 
