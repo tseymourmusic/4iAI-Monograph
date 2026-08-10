@@ -8,15 +8,15 @@ author: "Tim Seymour, CGMA, ACMA"
 
 date: "2026-08-10"
 
-description: "An operational framework converting LLMs from anti-intellectual shortcuts into high-yield dialectical sparring partners through mandatory Stage III Introspection Audit Logs."
+description: "An operational open standard converting LLMs from anti-intellectual shortcuts into high-yield dialectical sparring partners through mandatory Stage III Introspection Audit Logs."
 
-tags: [4iai, education-monograph, introspection-protocol, higher-education, secondary-education, academic-integrity, cognitive-ergonomics, human-ai-symbiosis, subverting-the-passable, assessment-framework]
+tags: [4iai, education-monograph, introspection-protocol, higher-education, secondary-education, academic-integrity, cognitive-ergonomics, human-ai-symbiosis, subverting-the-passable, assessment-open standard]
 
 ---
 
 [![DOI](https://zenodo.org/badge/1325533231.svg)](https://doi.org/10.5281/zenodo.21827755)
 
-**Foundational Protocol:** [The 4iAI™ Framework Monograph](../README.md)
+**Foundational Protocol:** [The 4iAI™ Open Standard Monograph](../README.md)
 
 ![4iAI Open Standard](../4iAI-open-standard-architecture.png)
 
@@ -34,7 +34,7 @@ tags: [4iai, education-monograph, introspection-protocol, higher-education, seco
 
 The rapid integration of Generative Artificial Intelligence (GenAI) into educational environments has created a systemic pedagogical crisis. Current student usage is overwhelmingly characterised by passive consumption—the uncritically accepted, uncalibrated reliance on Large Language Model (LLM) outputs defined herein as "The Passable." Traditional institutional countermeasures, such as automated AI-detection software and punitive bans, have proven operationally futile and pedagogically counterproductive.
 
-This paper introduces the **4iAI™ Educational Protocol**, an operational adaptation of human-synthetic symbiotic workflows designed to convert LLMs from anti-intellectual shortcuts into high-yield dialectical sparring partners. By shifting primary academic evaluation away from initial textual generation and onto mandatory accountable **Stage III Introspection Audit Logs**, the framework forces students to engage in critical fact-verification, bias detection, and moral-editorial synthesis. Empirical metrics demonstrate that embedding the 4iAI™ protocol elevates student metacognitive engagement, eliminates copy-paste plagiarism, and establishes sustainable AI literacy for non-linear and neurodivergent knowledge workers.
+This paper introduces the **4iAI™ Educational Protocol**, an operational adaptation of human-synthetic symbiotic workflows designed to convert LLMs from anti-intellectual shortcuts into high-yield dialectical sparring partners. By shifting primary academic evaluation away from initial textual generation and onto mandatory accountable **Stage III Introspection Audit Logs**, the open standard forces students to engage in critical fact-verification, bias detection, and moral-editorial synthesis. Empirical metrics demonstrate that embedding the 4iAI™ protocol elevates student metacognitive engagement, eliminates copy-paste plagiarism, and establishes sustainable AI literacy for non-linear and neurodivergent knowledge workers.
 
 ## **INTRODUCTION**
 
@@ -59,7 +59,7 @@ Educational institutions have largely responded with reactive defence mechanisms
 
 ### **The 4iAI™ Solution: Evaluative Displacement**
 
-To resolve this impasse, educational assessment must undergo a paradigm shift. Rather than attempting to police *whether* an AI tool was accessed, assessment frameworks must evaluate *how rigorously* the human operator interrogated, verified, and refined the synthetic output. By anchoring student evaluation to **Stage III Introspection**, the 4iAI™ protocol transforms GenAI from an illicit substitution for thought into a catalyst for high-order critical reasoning.
+To resolve this impasse, educational assessment must undergo a paradigm shift. Rather than attempting to police *whether* an AI tool was accessed, assessment open standards must evaluate *how rigorously* the human operator interrogated, verified, and refined the synthetic output. By anchoring student evaluation to **Stage III Introspection**, the 4iAI™ protocol transforms GenAI from an illicit substitution for thought into a catalyst for high-order critical reasoning.
 
 ## **SECTION OUTLINE**
 
@@ -69,7 +69,7 @@ To resolve this impasse, educational assessment must undergo a paradigm shift. R
 * **1.2 The Failure of Current Pedagogy:** Why traditional essay formats encourage passive LLM usage and why AI detection algorithms fail to restore academic integrity.
 * **1.3 Neurodivergent Considerations:** How unguided GenAI usage impacts 2e (twice-exceptional) and non-linear learners, balancing the risk of executive dysfunction relief against the threat of cognitive dependency.
 
-### **Section 2: Architectural Mechanics of the 4iAI™ Classroom Framework**
+### **Section 2: Architectural Mechanics of the 4iAI™ Classroom open standard**
 
 * **2.1 Stage I — Idea (Human Catalyst):** Enforcing intent-first constraints, core thesis formulation, and personal contextual boundary-setting prior to model interaction.
 * **2.2 Stage II — Inspiration (Synthetic Mirror):** Utilising LLMs as dialectical mirrors to rapidly map multi-variable perspectives, identify counter-arguments, and generate baseline drafts.
@@ -79,7 +79,7 @@ To resolve this impasse, educational assessment must undergo a paradigm shift. R
 ### **Section 3: Empirical Assessment \& Grading Rubrics**
 
 * **3.1 Shifting the Weight:** Restructuring grading rubrics to allocate 60%+ of total assignment value directly to the Stage III Introspection Audit Log.
-* **3.2 The Introspection Matrix:** A standardised assessment framework for measuring fact-verification rigor, bias detection, and voice preservation.
+* **3.2 The Introspection Matrix:** A standardised assessment open standard for measuring fact-verification rigor, bias detection, and voice preservation.
 * **3.3 Case Studies:** Comparative analysis of student learning outcomes in pilot courses utilising traditional writing assignments versus the 4iAI™ protocol.
 
 ### **Section 4: Implementation Strategy for Higher and Secondary Education**
