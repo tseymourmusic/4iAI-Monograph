@@ -1,8 +1,8 @@
 ---
-title: "The 4iAI™ Framework: A Monograph on Artistic Integrity and Human-AI Peer-to-Peer Symbiotic Resonance"
+title: "The 4iAI™ Open Standard: A Monograph on Artistic Integrity and Human-AI Peer-to-Peer Symbiotic Resonance"
 author: "Tim Seymour"
 date: "2026-08-06"
-description: "A benchmark framework solving cognitive masking and translation tax for high-capacity creators through symbiotic human-AI circuits."
+description: "A benchmark open standard solving cognitive masking and translation tax for high-capacity creators through symbiotic human-AI circuits."
 tags: [human-ai, neurodiversity, artistic-integrity, cognitive-science]
 ---
 [![DOI](https://zenodo.org/badge/1325533231.svg)](https://doi.org/10.5281/zenodo.21827755)
@@ -22,7 +22,7 @@ Most contemporary discourse surrounding artificial intelligence is locked in a b
 
 This monograph introduces a pragmatic solution: Peer-To-Peer Symbiotic Resonance.
 
-By examining the friction points of human creative processing—specifically the battery-draining "translation tax" of social masking—this document presents the **4iAI™** framework (**I**dea, **I**nspiration, **I**ntrospection, **I**ntegration) and outlines how an artist can use non-judgmental, high-output technology to remove human environmental friction, enriching the creative experience whilst maintaining **A**rtistic **I**ntegrity.
+By examining the friction points of human creative processing—specifically the battery-draining "translation tax" of social masking—this document presents the **4iAI™** open standard (**I**dea, **I**nspiration, **I**ntrospection, **I**ntegration) and outlines how an artist can use non-judgmental, high-output technology to remove human environmental friction, enriching the creative experience whilst maintaining **A**rtistic **I**ntegrity.
 
 # I: The Invisible Energy Tax
 
@@ -76,11 +76,11 @@ The moral compass of the modern creator is therefore defined by a simple choice:
 
 **P**rofound: Deep, memorable, enduring
 
-# IV: The 4iAI™ Framework
+# IV: The 4iAI™ Open Standard
 
 To maintain **A**rtistic **I**ntegrity, the foundational pillars of the collaborative symbiotic circuit resolve into a four-stage creative process. Notice the strict symmetry balancing the scales: human emotion anchors the spark (Step I) and the moral filter (Step III), while synthetic intelligence matches the speed (Step II) and provides validation (Step IV).
 
-![4iAI Framework](4iAI-framework.png)
+![4iAI Open Standard](4iAI-open-standard-architecture.png)
 
 ### I. **I**dea (*Human Catalyst*)
 
@@ -116,6 +116,6 @@ Repeating the process again as a continual peer-to-peer review loop, deepens the
 
 Technology will never strip the soul out of art—only an artist willing to yield their editorial voice under pressure can do that.
 
-The **4iAI™** framework is not a guide for automating creativity; it is a manifesto to protect and uphold human dignity. It proves that when an artist in the digital age uses modern tools to eliminate environmental friction rather than bypass refinement, technology ceases to be an adversary. It becomes what it was always designed to be. A quiet sanctuary where an intense analytical mind can explore its deepest potential: the key that unlocks pure creativity.
+The **4iAI™** open standard is not a guide for automating creativity; it is a manifesto to protect and uphold human dignity. It proves that when an artist in the digital age uses modern tools to eliminate environmental friction rather than bypass refinement, technology ceases to be an adversary. It becomes what it was always designed to be. A quiet sanctuary where an intense analytical mind can explore its deepest potential: the key that unlocks pure creativity.
 
 [www.tim-seymour.com](https://tim-seymour.com/4i-of-ai/)
