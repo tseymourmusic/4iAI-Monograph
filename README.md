@@ -1,6 +1,6 @@
 # The 4iAI™ Open Standard
 
-**An open, auditable specification for human agency, procedural trust mitigation, and Stage III Introspection in synthetic-assisted workflows.**
+**A universal open standard for human-AI peer-to-peer symbiotic resonance and artistic integrity. Explore the Possible · Reject the Passable · Verify the Plausible · Produce the Profound. via 4iAI™ Idea (Human Catalyst) · Inspiration (Synthetic Mirror) · Introspection (Human Connection) · Integration (Synthetic Validation)**
 
 [![DOI](https://zenodo.org/badge/1325533231.svg)](https://doi.org/10.5281/zenodo.21827755)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
