@@ -1,0 +1,11 @@
+title: "The 4iAI™ Open Standard"
+description: "Specification and Monograph on Artistic Integrity, Human Agency, and Peer-to-Peer Symbiotic Resonance"
+theme: jekyll-theme-cayman # Options: jekyll-theme-slate, jekyll-theme-minimal, jekyll-theme-architect
+show_downloads: true
+google_analytics: "" # Add your ID if you use analytics later
+
+# Navigation Structure
+header_pages:
+  - README.md
+  - docs/MASTER_DOSSIER.md
+  - implementation/CURRICULUM_FRAMEWORK.md
