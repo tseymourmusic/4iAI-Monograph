@@ -24,7 +24,7 @@ tags: [4iai, education-monograph, introspection-protocol, higher-education, seco
 
 **DATE:** August 2026
 
-**TARGET PUBLICATION:** *Journal of Educational Technology \& Cognitive Ergonomics*
+**TARGET PUBLICATION:** *Journal of Educational Technology and Cognitive Ergonomics*
 
 **Foundational Protocol:** [The 4iAI™ Open Standard Monograph](../README.md)
 
@@ -76,7 +76,7 @@ To resolve this impasse, educational assessment must undergo a paradigm shift. R
 * **2.3 Stage III — Introspection (The Core Evaluative Engine):** The operational mechanics of the Introspection Audit Log. Fact-checking protocols, hallucination identification, tone calibration, and moral-editorial filtering.
 * **2.4 Stage IV — Integration (The Profound Deliverable):** Synthesising verified synthetic outputs with human judgment to produce publication-grade, high-density academic artifacts.
 
-### **Section 3: Empirical Assessment \& Grading Rubrics**
+### **Section 3: Empirical Assessment and Grading Rubrics**
 
 * **3.1 Shifting the Weight:** Restructuring grading rubrics to allocate 60%+ of total assignment value directly to the Stage III Introspection Audit Log.
 * **3.2 The Introspection Matrix:** A standardised assessment open standard for measuring fact-verification rigor, bias detection, and voice preservation.
