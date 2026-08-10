@@ -16,7 +16,7 @@ tags: [twice-exceptional, 2e, human-ai, executive-strategy, talent-management, w
 
 [![DOI](https://zenodo.org/badge/1325533231.svg)](https://doi.org/10.5281/zenodo.21827755)
 
-# **CLINICAL \& OPERATIONAL MONOGRAPH**
+# **CLINICAL AND OPERATIONAL MONOGRAPH**
 
 **Title:** Neuro-Somatic Hardware Integration in Twice-Exceptional (2e) Systems: The Asymmetry-Symmetry Paradox as a Medical-Grade Specification for the 4iAI™ Stage IV Circuit
 
