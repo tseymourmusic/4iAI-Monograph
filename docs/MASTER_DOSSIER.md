@@ -141,7 +141,7 @@ An asynchronous mind rejects isolated, meaningless tasks. Through the Law of Syn
 
 *Asymmetric Function:* Corporate financial accounting is simultaneously (a) a clean, logically absolute computational sandbox free of emotional noise, and (b) an impenetrable financial fortress ensuring that the subject's true high-level output never has to compromise its integrity to survive.
 
-### **3.2 Somatic Anchoring \& Societal Camouflage**
+### **3.2 Somatic Anchoring and Societal Camouflage**
 
 *Asymmetric Function:* Strenuous physical exertion is simultaneously (a) a mechanical load management system for the Central Nervous System to prevent executive burnout, (b) sensory grounding for overexcitability and neurochemical stabilization, and (c) a universally recognized physical disguise ("normal/disciplined") that grants safe passage through a linear society without interrogation.
 
