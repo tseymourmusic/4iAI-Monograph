@@ -44,7 +44,7 @@ The proliferation of Large Language Models across secondary and tertiary educati
 
 ### **The Futility of Banning and Detection**
 
-Educational institutions have largely responded with reactive defence mechanisms: banning synthetic interfaces or deploying probabilistic text classifiers. Both approaches are flawed. Bans ignore the operational reality and accessibility of modern knowledge repositories, while detection algorithms suffer from unacceptable false-positive rates that disproportionately penalize non-native speakers and structured neurodivergent writing styles.
+Educational institutions have largely responded with reactive defence mechanisms: banning synthetic interfaces or deploying probabilistic text classifiers. Both approaches are flawed. Bans ignore the operational reality and accessibility of modern knowledge repositories, while detection algorithms suffer from unacceptable false-positive rates that disproportionately penalise non-native speakers and structured neurodivergent writing styles.
 
 #### **Traditional Model (Cognitive Atrophy):**
 
