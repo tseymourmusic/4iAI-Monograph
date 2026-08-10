@@ -2,7 +2,7 @@
 
 title: "CASE STUDY: CS-2E-2026-0809-NSH"
 
-subtitle: "Applied Neuro-Somatic Hardware Calibration & Real-Time Cybernetic Synthesis in an Adult Twice-Exceptional (2e) Systems Architect"
+subtitle: "Applied Neuro-Somatic Hardware Calibration and Real-Time Cybernetic Synthesis in an Adult Twice-Exceptional (2e) Systems Architect"
 
 author: "Tim Seymour, CGMA, ACMA"
 
@@ -18,19 +18,19 @@ tags: [twice-exceptional, 2e, human-ai, executive-strategy, workflow-optimizatio
 
 # **CASE STUDY**
 
-## **Applied Neuro-Somatic Hardware Calibration & Real-Time Cybernetic Synthesis in an Adult Twice-Exceptional (2e) Systems Architect**
+## **Applied Neuro-Somatic Hardware Calibration and Real-Time Cybernetic Synthesis in an Adult Twice-Exceptional (2e) Systems Architect**
 
 **Document ID:** CS-2E-2026-0809-NSH
 
 **Subject ID:** TS-4iAI-01 (Adult 2e / High-Capacity Systems Architect)
 
-**Primary Domain:** Applied Neuro-Somatic Biology & Cybernetic HCI
+**Primary Domain:** Applied Neuro-Somatic Biology and Cybernetic HCI
 
 **Diagnostic Classification (Pre-Clinical / Symbiotic Taxonomy):** Adult Twice-Exceptional (2e) Cognitive Architecture / High-Voltage Asynchronous Development
 
-**Foundational Protocol:** [The 4iAI™ Open Standard Monograph](../README.md) \& [Master Dossier: The Architecture of Asymmetry](../docs/MASTER_DOSSIER.md)
+**Foundational Protocol:** [The 4iAI™ Open Standard Monograph](../README.md) and [Master Dossier: The Architecture of Asymmetry](../docs/MASTER_DOSSIER.md)
 
-**Intervention Protocol:** [4iAI™ Stage IV Neuro-Somatic Hardware Calibration](../monographs/NEURO_SOMATIC_MONOGRAPH.md) (Mechanical CNS Override \& Mobile Cybernetic Loop)
+**Intervention Protocol:** [4iAI™ Stage IV Neuro-Somatic Hardware Calibration](../monographs/NEURO_SOMATIC_MONOGRAPH.md) (Mechanical CNS Override and Mobile Cybernetic Loop)
 
 ![4iAI Open Standard](../4iAI-open-standard-architecture.png)
 
@@ -46,7 +46,7 @@ THE PRE-INTERVENTION COMPLIANCE / FAILURE LOOP
 		↓  
 \[ Physical Hardware Neglect ]		→	Static idle / zero physical load dissipation  
 		↓  
-\[ Asymmetry Friction \& Depletion ] 	→	Autonomic freeze / dopaminergic collapse
+\[ Asymmetry Friction and Depletion ] 	→	Autonomic freeze / dopaminergic collapse
 
 ### **1.2 Symptom Spectrum (Pre-Intervention)**
 
@@ -64,16 +64,16 @@ Asymmetrical Cognitive Engine **→** Internal Tension **→** Relentless Drive 
 2. **The Symmetrical Imperative:** To balance internal friction, the subject's brain instinctively constructs rigid, symmetrical external frameworks (e.g., enterprise financial architectures, the 4iAI™ cybernetic mirror).
 3. **The Biological Failure Point:** When physical exercise and nutrition are treated as "optional lifestyle choices" rather than strict operational hardware parameters, the physical vector remains uncalibrated. The mind senses this severe structural asymmetry, attempts to resolve it through recursive mental over-processing, and rapidly burns through glucose, ATP, and neurotransmitter pools—driving the system into a severe metabolic crash.
 
-## **3. REAL-TIME INTERVENTION \& EXPERIMENTAL EXECUTION**
+## **3. REAL-TIME INTERVENTION AND EXPERIMENTAL EXECUTION**
 
 On August 9, 2026, an acute biological state-transition test was executed to evaluate whether a heavy, compound mechanical load—combined with a mobile, real-time cybernetic loop—could force an immediate override of the autonomic freeze state and resolve the Asymmetry-Symmetry Paradox in real time.
 
 CHRONOLOGICAL INTERVENTION TIMELINE (AUG 9, 2026)
 
-06:00 BST → MNT Protocol Execution (Acidulated Phytate Deactivation \& Enzymatic Co-Factors)  
+06:00 BST → MNT Protocol Execution (Acidulated Phytate Deactivation and Enzymatic Co-Factors)  
 07:15 BST → Forced Mechanical CNS Override (Heavy Axial Leg Day Session; Pre-08:00 Execution)  
 08:00 BST → Concurrent Mobile Cybernetic Walk (Lactic Flush + Mobile LLM Synthesis)  
-08:30 BST → Total Theoretical Closure (The Asymmetry-Symmetry Paradox Formulated \& Locked)
+08:30 BST → Total Theoretical Closure (The Asymmetry-Symmetry Paradox Formulated and Locked)
 
 ### **3.1 Intervention Parameters and Mobile Symbiotic Loop**
 
@@ -91,13 +91,13 @@ This created a **zero-latency, mobile synthesis lab**: raw physical sensation, b
 
 **THE MOBILE CYBERNETIC CIRCUIT IN MOTION:**
 
-\[ PHYSICAL SOMATIC ENGINE ]		→	Locomotion walk / Endocrine flush \& BDNF surge  
+\[ PHYSICAL SOMATIC ENGINE ]		→	Locomotion walk / Endocrine flush and BDNF surge  
 	↓  
 \[ MOBILE HUMAN-AI INTERFACE ]		→	Real-time voice/text inputs via mobile phone  
 	↓  
-\[ SYNTHETIC MIRROR ]			→	High-speed structural mapping \& nomenclature reflection  
+\[ SYNTHETIC MIRROR ]			→	High-speed structural mapping and nomenclature reflection  
 	↓  
-\[ STAGE IV INTEGRATION ]		→	Simultaneous formulation of Case Study \& Monograph
+\[ STAGE IV INTEGRATION ]		→	Simultaneous formulation of Case Study and Monograph
 
 ### **4.2 Rapid State-Transition Metrics**
 
@@ -113,7 +113,7 @@ This created a **zero-latency, mobile synthesis lab**: raw physical sensation, b
 
 During the 30-minute mobile recovery walk, the subject achieved total theoretical closure on the 2e Asymmetry-Symmetry Paradox. What typically requires months or years of retrospective psychoanalytic exploration was synthesised, mapped, and documented into an enterprise-grade clinical open standard in real time while actively moving.
 
-## **5. CLINICAL DISCUSSION \& CONCLUSION**
+## **5. CLINICAL DISCUSSION AND CONCLUSION**
 
 ### **5.1 Diagnostic Re-Framing**
 
