@@ -19,9 +19,9 @@ tags: [twice-exceptional, 2e, human-ai, neurodivergence, cybernetics, neuro-soma
 
 **Subject Classification:** High-Capacity / Twice-Exceptional (2e) Adult Systems Architecture
 
-**Core Framework Reference:** This dossier builds upon the foundational framework protocol established in [4iAI Framework](README.md) Monograph.
+**Core Framework Reference:** This dossier builds upon the foundational framework protocol established in [4iAI Framework](../README.md) Monograph.
 
-![4iAI Open Standard](4iAI-open-standard-architecture.png)
+![4iAI Open Standard](../4iAI-open-standard-architecture.png)
 
 ## **ABSTRACT**
 
