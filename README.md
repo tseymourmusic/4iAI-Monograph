@@ -27,7 +27,7 @@ tags: [open-standard, ai-governance, generative-ai, human-in-the-loop, procedura
 ### **Repository Map & Specification Architecture**
 * 📘 [Core Specification & Master Dossier](docs/MASTER_DOSSIER.md)
 * 🎓 [Educational & Curriculum Framework](monographs/EDUCATION_MONOGRAPH.md)
-* 🧠 [Neuro-Somatic Monograph](monographs/NEURO_SOMATIC_MONOGRAPH.md)
+* 🧠 [Neuro-Somatic Monograph](monographs/NEURO_SOMATIC_MONOGAPH.md)
 * 🏛️ [Executive Strategy Paper](monographs/EXECUTIVE_STRATEGY_PAPER.md)
 * 🔬 [Stage III Deep Dive: Introspection & Ownership](docs/STAGE_III_DEEP_DIVE.md)
 ---
