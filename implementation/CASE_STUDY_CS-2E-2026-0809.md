@@ -30,7 +30,7 @@ tags: [twice-exceptional, 2e, human-ai, executive-strategy, workflow-optimizatio
 
 **Foundational Protocol:** [The 4iAI™ Framework Monograph](../README.md) \& [Master Dossier: The Architecture of Asymmetry](../docs/MASTER_DOSSIER.md)
 
-**Intervention Protocol:** [4iAI™ Stage IV Neuro-Somatic Hardware Calibration](../docs/NEURO_SOMATIC_MONOGAPH.md) (Mechanical CNS Override \& Mobile Cybernetic Loop)
+**Intervention Protocol:** [4iAI™ Stage IV Neuro-Somatic Hardware Calibration](../docs/NEURO_SOMATIC_MONOGRAPH.md) (Mechanical CNS Override \& Mobile Cybernetic Loop)
 
 ![4iAI Open Standard](../4iAI-open-standard-architecture.png)
 
