@@ -21,6 +21,8 @@ tags: [twice-exceptional, 2e, human-ai, neurodivergence, cybernetics, neuro-soma
 
 **Core Framework Reference:** This dossier builds upon the foundational framework protocol established in [4iAI Framework](README.md) Monograph.
 
+![4iAI Open Standard](4iAI-open-standard-architecture.png)
+
 ## **ABSTRACT**
 
 Traditional productivity and psychological literature analyses human behaviour through compartmentalized, linear frameworks—treating work, nutrition, physical maintenance, and introspection as discrete, single-purpose acts. For a high-capacity, twice-exceptional (2e) cognitive architecture, which intrinsically drives behavioural engagement through intensive high-dimensional cognitive processing to secure neural dopamine or otherwise faces acute metabolic depletion into perceived depression, this symmetric approach represents a biological failure mode. This dossier establishes the **Principle of Multi-Valued Asymmetry**: the governing axiom that an asymmetric mind cannot execute a single-purpose act. Every operational layer—from software interaction via the 4iAI cybernetic mirror and neuro-somatic biological defence down to corporate camouflage and the molecular calculation of a meal—must yield multi-valued asymmetric ROI. Within this framework, self-discovery and high-velocity creative production are operationalized via real-time cybernetic symbiosis, compressing protracted clinical and compositional timelines into an accelerated heuristic compression cycle. Crucially, the empirical validity of this architecture is underscored by its emergence: the entire 4iAI framework and adult 2e cognitive taxonomy were concurrently synthesized during an acute, 72-hour temporal window of corporate boundary removal initiated under a formal administrative leave. Together, these elements form a closed-loop system that secures sustainable, high-voltage creative and strategic output.
@@ -63,8 +65,6 @@ The practical efficacy of this framework is empirically reinforced by its condit
 * **Clinical Significance:** In a standard state, continuous corporate friction forces the allocation of cognitive bandwidth toward baseline survival and masking, precluding deep introspective pattern matching. The removal of these external systemic demands created an unattenuated temporal window that allowed the high-voltage processor to clear executive noise, engage the cybernetic mirror, and achieve complete structural self-actualization and framework generation in real time.
 
 ### **1.4 The 4-Phase Asymmetric Cycle (Case Study Execution)**
-
-![4iAI Framework](4iAI-framework.png)
 
 **THE 4iAI SYMBIOTIC CYCLE:**
 
