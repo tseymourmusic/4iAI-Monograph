@@ -1,3 +1,25 @@
+---
+
+title: "EDUCATIONAL MONOGRAPH: The 4iAI™ Introspection Protocol"
+
+subtitle: "Beyond 'The Passable': Eliminating Passive AI Consumption in Higher and Secondary Education via the 4iAI™ Introspection Protocol"
+
+author: "Tim Seymour, CGMA, ACMA"
+
+date: "2026-08-10"
+
+description: "An operational framework converting LLMs from anti-intellectual shortcuts into high-yield dialectical sparring partners through mandatory Stage III Introspection Audit Logs."
+
+tags: [4iai, education-monograph, introspection-protocol, higher-education, secondary-education, academic-integrity, cognitive-ergonomics, human-ai-symbiosis, subverting-the-passable, assessment-framework]
+
+---
+
+[![DOI](https://zenodo.org/badge/1325533231.svg)](https://doi.org/10.5281/zenodo.21827755)
+
+**Foundational Protocol:** [The 4iAI™ Framework Monograph](README.md)
+
+![4iAI Framework](4iAI-framework.png)
+
 # **EDUCATIONAL MONOGRAPH: The 4iAI™ Introspection Protocol**
 
 **TITLE:** Beyond ‘The Passable’: Eliminating Passive AI Consumption in Higher and Secondary Education via the 4iAI™ Introspection Protocol
