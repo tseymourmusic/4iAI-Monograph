@@ -1,3 +1,21 @@
+---
+
+title: "CURRICULUM FRAMEWORK: THE 4iAI™ COGNITIVE ACCELERATOR"
+
+subtitle: "Shifting Student Behaviour from Passive Consumption ('The Passable') to Active Intellectual Ownership ('The Profound')"
+
+author: "Tim Seymour, CGMA, ACMA"
+
+date: "2026-08-10"
+
+description: "An operational specification for embedding the 4iAI™ 4-stage classroom cycle into secondary and higher education, shifting grading focus from raw AI output to Stage III Introspection."
+
+tags: [4iai, curriculum-framework, cognitive-accelerator, introspection-audit, secondary-education, higher-education, academic-integrity, human-ai-symbiosis, subverting-the-passable, assessment-framework]
+
+---
+
+[![DOI](https://zenodo.org/badge/1325533231.svg)](https://doi.org/10.5281/zenodo.21827755)
+
 # **CURRICULUM FRAMEWORK: THE 4iAI™ COGNITIVE ACCELERATOR**
 
 **Target Audience:** Secondary \& Higher Education (STEM, Humanities, Business)
@@ -5,6 +23,10 @@
 **Core Objective:** Shift student behaviour from passive consumption ("The Passable") to active intellectual ownership ("The Profound").
 
 **Grading Philosophy:** Students are graded **not** on the initial AI output, but on the quality and depth of their Stage III Introspection and final human calibration.
+
+**Foundational Protocol:** [The 4iAI™ Framework Monograph](README.md) /& [Education Monograph: The 4iAI™ Introspection Protocol](EDUCATION_MONOGRAPH.md)
+
+![4iAI Framework](4iAI-framework.png)
 
 ## **The Paradigm Shift: Reframing the AI Assignment**
 
