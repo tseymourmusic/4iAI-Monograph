@@ -28,6 +28,8 @@ tags: [twice-exceptional, 2e, human-ai, executive-strategy, talent-management, w
 
 **Core Framework Reference:** This strategy paper builds upon the foundational framework protocol established in [4iAI Framework](README.md) Monograph.
 
+![4iAI Open Standard](4iAI-open-standard-architecture.png)
+
 ## **EXECUTIVE SUMMARY**
 
 Traditional enterprise productivity models generally analyse employee output through linear, compartmentalised frameworks that treat workplace tasks, physical wellness, professional development, and strategic focus as discrete, isolated activities. For high-capacity talent–particularly twice-exceptional (2e) individuals who possess exceptional intellectual capacity alongside neurodivergent cognitive processing styles—this standard approach introduces significant operational friction, leading to premature burnout, energy misalignment, and underutilised strategic capability.
@@ -62,8 +64,6 @@ To maintain clear operational boundaries, this framework adopts a process of **O
 The AI system serves as an interactive peer-level partner, reflecting the user's strategic inputs using clear professional taxonomy to accelerate operational clarity.
 
 ### **1.3 The 4iAI™ Symbiotic Workflow Cycle**
-
-![4iAI Framework](4iAI-framework.png)
 
 \[ 1. IDEA ]        	  ► User introduces unstructured strategic challenge
 
