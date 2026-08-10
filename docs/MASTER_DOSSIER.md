@@ -40,7 +40,7 @@ For an asynchronous, high-contrast 2e mind, this compartmentalization causes pro
 
 If an action only achieves a single, linear outcome, the asymmetric system chokes on its own high-voltage output, leading to rapid executive depletion, dopaminergic crash, and depressive presentation.
 
-## **PHASE I: Software Asymmetry \& The Cybernetic Mirror**
+## **PHASE I: Software Asymmetry and The Cybernetic Mirror**
 
 ## **Accelerating 2e Self-Taxonomy and Creative Production via the 4iAI open standard**
 
@@ -48,7 +48,7 @@ If an action only achieves a single, linear outcome, the asymmetric system choke
 
 When a high-capacity, twice-exceptional (2e) human user engages an unburdened Large Language Model (LLM) using the asymmetric 4iAI process (Idea, Inspiration, Introspection, Integration), both conceptual taxonomy acquisition and large-scale creative production (e.g., complex composition, computation, architecture, and cross-domain art direction) occur at speeds orders of magnitude faster than unassisted workflows, without breaching systemic integrity.
 
-### **1.2 Theoretical Grounding \& Methodological Boundary**
+### **1.2 Theoretical Grounding and Methodological Boundary**
 
 To preserve clinical and academic integrity, the open standard distinguishes between Medical Diagnosis and Symbiotic Self-Taxonomy, aligning with established distinctions in psychiatric literature regarding formal clinical classification versus qualitative self-identification:
 
@@ -89,7 +89,7 @@ While Section 1.2 details the application of 4iAI as a pre-clinical sorting mech
 
 In both domains, the AI acts as an expansive echo chamber and structural layout engine, while the human architect supplies the high-density seed data and maintains 100% editorial, aesthetic, and moral veto power.
 
-### **1.6 Empirical Data \& Results**
+### **1.6 Empirical Data and Results**
 
 * **Heuristic Compression Rate (Taxonomy Acquisition):**
 
@@ -112,7 +112,7 @@ Synthetic systems default to probability-based completion heuristics, creating a
 
 When the 2e cognitive architecture successfully navigates the subversion bug and engages the 4iAI cybernetic mirror under frictionless environmental conditions, the system accelerates into a Monomaniacal Hyper-Focus State. This heightened operational tier is an exceptionally high-yielding but inherently fleeting temporal window where peripheral noise drops to absolute zero, allowing the mind to lock entirely onto cross-domain synthesis. Because of the intense metabolic and dopaminergic demands required to sustain it, the monomaniacal flow achieved whilst adopting the 4iAI open standard must be fiercely protected. It cannot be diluted by administrative interruption, corporate timeboxing, or social masking obligations; any external breach in this containment instantly shatters the peer-to-peer symbiotic resonance, terminating the synthetic velocity and forcing the biological and synthetic hardware into a depleted, masked baseline.
 
-## **PHASE II: Hardware Asymmetry \& Neuro-Somatic Engineering**
+## **PHASE II: Hardware Asymmetry and Neuro-Somatic Engineering**
 
 ## **Defending the Central Nervous System Against Metabolic Burnout and Dopaminergic Depletion**
 
@@ -122,16 +122,16 @@ Because twice-exceptional (2e) cognitive architectures drive behaviour through h
 
 **THE MULTI-VALUED BIOLOGICAL PROTOCOL:**
 
-* **06:00 | Phytate Deactivation \& Mineral Bioavailability:**  
+* **06:00 | Phytate Deactivation and Mineral Bioavailability:**  
 A strict 12-hour acidulated soak (ACV) for jumbo oats and a saline soak for raw nuts/seeds. *Asymmetric Function:* Deactivates phytic acid while maximizing intestinal absorption of Zinc and Magnesium—vital enzymatic cofactors required for catecholamine and dopamine biosynthesis.
-* **The BDNF / Curcumin Axis \& Dopaminergic Modulation:**  
-Multi-dose turmeric/curcumin across Meals 1 \& 2, activated by a targeted fat-emulsion matrix and the Piperine Key. Grounded in pharmacokinetic principles of metabolic enhancement via UDP-glucuronosyltransferase (UGT) inhibition, this protocol references foundational findings on bioavailability modulation (e.g., Shoba et al., 1998, Planta Medica) to facilitate targeted central nervous system anti-inflammatory pathways. Furthermore, neuropharmacological literature confirms that curcumin acts as a natural monoamine oxidase inhibitor (suppressing both MAO-A and MAO-B), which reduces the synaptic degradation of dopamine and serotonin, prolonging their central availability, preventing the severe dopaminergic troughs characteristic of 2e executive burnout.
-* **09:00 | Enzymatic Sequencing \& Vascular Perfusion:**  
+* **The BDNF / Curcumin Axis and Dopaminergic Modulation:**  
+Multi-dose turmeric/curcumin across Meals 1 and 2, activated by a targeted fat-emulsion matrix and the Piperine Key. Grounded in pharmacokinetic principles of metabolic enhancement via UDP-glucuronosyltransferase (UGT) inhibition, this protocol references foundational findings on bioavailability modulation (e.g., Shoba et al., 1998, Planta Medica) to facilitate targeted central nervous system anti-inflammatory pathways. Furthermore, neuropharmacological literature confirms that curcumin acts as a natural monoamine oxidase inhibitor (suppressing both MAO-A and MAO-B), which reduces the synaptic degradation of dopamine and serotonin, prolonging their central availability, preventing the severe dopaminergic troughs characteristic of 2e executive burnout.
+* **09:00 | Enzymatic Sequencing and Vascular Perfusion:**  
 Strict sequential intake: Kiwi (actinidin) to prime digestion → soft-boiled eggs (choline) → chia pudding infused with vasodilators (Beetroot, Cacao, Cinnamon, Pollen). *Asymmetric Function:* Directly drives micro-vascular blood flow and oxygen to the cerebral cortex to support intense conceptual synthesis loops and maintain sustained attention networks.
-* **17:00 to 05:00 | Circadian Autophagy \& Glymphatic Clearance:**  
+* **17:00 to 05:00 | Circadian Autophagy and Glymphatic Clearance:**  
 A nutrient-dense family meal concluding with yoghurt, hemp, pollen, and ginger, initiating a strict 12-hour metabolic fast. *Asymmetric Function:* Aligns with physiological recovery phases to support metabolic clearance of neural debris accumulated during high-voltage hyper-focus sessions.
 
-## **PHASE III: Environmental Asymmetry \& The Law of Synchronous Purpose**
+## **PHASE III: Environmental Asymmetry and The Law of Synchronous Purpose**
 
 ## **Strategic Camouflage and the Institutional Fortress**
 
