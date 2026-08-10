@@ -1,11 +1,38 @@
 ---
+
 title: "The 4iAI™ Open Standard: A Monograph on Artistic Integrity and Human-AI Peer-to-Peer Symbiotic Resonance"
-author: "Tim Seymour"
+
+author: "Tim Seymour, CGMA, ACMA"
+
 date: "2026-08-06"
-description: "A benchmark open standard solving cognitive masking and translation tax for high-capacity creators through symbiotic human-AI circuits."
-tags: [human-ai, neurodiversity, artistic-integrity, cognitive-science]
+
+description: "A universal open standard establishing auditable human agency, ethical controls and Stage III Introspection across synthetic-assisted AI workflows—optimising high-capacity cognitive output while eliminating systemic translation tax and cognitive masking."
+
+tags: [open-standard, ai-governance, generative-ai, human-in-the-loop, procedural-trust, specification, human-ai-symbiosis, cybernetics, systems-engineering, evaluative-displacement, stage-3-introspection, cognitive-science, cognitive-ergonomics, human-agency, twice-exceptional, 2e, neurodiversity, cognitive-masking, translation-tax, artistic-integrity, knowledge-work, editorial-sovereignty]
+
 ---
+
+# The 4iAI™ Open Standard
+
+**An open, auditable specification for human agency, procedural trust mitigation, and Stage III Introspection in synthetic-assisted workflows.**
+
 [![DOI](https://zenodo.org/badge/1325533231.svg)](https://doi.org/10.5281/zenodo.21827755)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Version](https://img.shields.io/badge/Specification-v1.4.0-blue.svg)]()
+
+> 🌐 **Official Site:** [4iai.org](https://4iai.org) | 📄 **Author:** Tim Seymour, CGMA, ACMA
+
+---
+
+### **Repository Map & Specification Architecture**
+* 📘 [Core Specification & Master Dossier](docs/MASTER_DOSSIER.md)
+* 🔬 [Stage III Deep Dive: Introspection & Ownership](docs/STAGE_III_DEEP_DIVE.md)
+* 🎓 [Educational & Curriculum Framework](implementation/CURRICULUM_FRAMEWORK.md)
+* 🧠 [Neuro-Somatic Monograph](monographs/NEURO_SOMATIC_MONOGRAPH.md)
+* 🏛️ [Executive Strategy Paper](monographs/EXECUTIVE_STRATEGY_PAPER.md)
+
+---
+
 # The 4i’s of Artistic Integrity™
 
 **I**DEA · **I**NSPIRATION · **I**NTROSPECTION · **I**NTEGRATION
