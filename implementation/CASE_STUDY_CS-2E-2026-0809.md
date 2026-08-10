@@ -28,7 +28,7 @@ tags: [twice-exceptional, 2e, human-ai, executive-strategy, workflow-optimizatio
 
 **Diagnostic Classification (Pre-Clinical / Symbiotic Taxonomy):** Adult Twice-Exceptional (2e) Cognitive Architecture / High-Voltage Asynchronous Development
 
-**Foundational Protocol:** [The 4iAI™ Framework Monograph](../README.md) \& [Master Dossier: The Architecture of Asymmetry](../docs/MASTER_DOSSIER.md)
+**Foundational Protocol:** [The 4iAI™ Open Standard Monograph](../README.md) \& [Master Dossier: The Architecture of Asymmetry](../docs/MASTER_DOSSIER.md)
 
 **Intervention Protocol:** [4iAI™ Stage IV Neuro-Somatic Hardware Calibration](../monographs/NEURO_SOMATIC_MONOGRAPH.md) (Mechanical CNS Override \& Mobile Cybernetic Loop)
 
@@ -75,13 +75,13 @@ CHRONOLOGICAL INTERVENTION TIMELINE (AUG 9, 2026)
 08:00 BST → Concurrent Mobile Cybernetic Walk (Lactic Flush + Mobile LLM Synthesis)  
 08:30 BST → Total Theoretical Closure (The Asymmetry-Symmetry Paradox Formulated \& Locked)
 
-### **3.1 Intervention Parameters \& Mobile Symbiotic Loop**
+### **3.1 Intervention Parameters and Mobile Symbiotic Loop**
 
 * **Phase I: Pre-Exercise Neuro-Somatic Priming (06:00 BST):** Execution of Medical Nutrition Therapy (MNT) Protocol B—acidulated soak for mineral co-factor absorption (Zinc, Magnesium) to support catecholamine biosynthesis.
 * **Phase II: Heavy Mechanical CNS Override (< 08:00 BST):** Execution of high-load, low-velocity lower-body axial loading (heavy leg session). This forced the recruitment of major motor units, triggering an immediate acute endocrine flush (testosterone, growth hormone, central endorphins).
-* **Phase III: Mobile Cybernetic Locomotion Loop (08:00–08:30 BST):** The subject executed a 30-minute post-workout active recovery walk to flush lactic acid while simultaneously engaging the 4iAI™ LLM framework via a mobile handheld interface.
+* **Phase III: Mobile Cybernetic Locomotion Loop (08:00–08:30 BST):** The subject executed a 30-minute post-workout active recovery walk to flush lactic acid while simultaneously engaging the 4iAI™ LLM open standard via a mobile handheld interface.
 
-## **4. CLINICAL RESULTS \& EMPIRICAL FINDINGS**
+## **4. CLINICAL RESULTS AND EMPIRICAL FINDINGS**
 
 ### **4.1 Real-Time Mobile Synthesis Dynamics**
 
@@ -111,7 +111,7 @@ This created a **zero-latency, mobile synthesis lab**: raw physical sensation, b
 
 ### **4.3 Heuristic Compression Rate**
 
-During the 30-minute mobile recovery walk, the subject achieved total theoretical closure on the 2e Asymmetry-Symmetry Paradox. What typically requires months or years of retrospective psychoanalytic exploration was synthesised, mapped, and documented into an enterprise-grade clinical framework in real time while actively moving.
+During the 30-minute mobile recovery walk, the subject achieved total theoretical closure on the 2e Asymmetry-Symmetry Paradox. What typically requires months or years of retrospective psychoanalytic exploration was synthesised, mapped, and documented into an enterprise-grade clinical open standard in real time while actively moving.
 
 ## **5. CLINICAL DISCUSSION \& CONCLUSION**
 
@@ -121,7 +121,7 @@ This case demonstrates that post-flow hypoarousal and executive fatigue in twice
 
 ### **5.2 The Mobile Cybernetic Standard**
 
-Physical resistance training (axial mechanical loading), precision nutrient timing (MNT), and mobile-enabled real-time synthesis are hereby validated as **mandatory Stage IV (Integration) hardware specifications** within the 4iAI™ cybernetic framework.
+Physical resistance training (axial mechanical loading), precision nutrient timing (MNT), and mobile-enabled real-time synthesis are hereby validated as **mandatory Stage IV (Integration) hardware specifications** within the 4iAI™ cybernetic open standard.
 
 When the 2e mind's relentless demand for external symmetry is applied equally to physical hardware in motion as it is to cognitive software, autonomic friction drops to zero. Systemic stability is achieved not by slowing the mind down or sitting still, but by building a mobile, perfectly symmetrical physical and cybernetic structure capable of supporting its full operational potential wherever it moves.
 
