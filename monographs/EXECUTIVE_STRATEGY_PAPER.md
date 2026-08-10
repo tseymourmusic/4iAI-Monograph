@@ -26,9 +26,9 @@ tags: [twice-exceptional, 2e, human-ai, executive-strategy, talent-management, w
 
 **Subject Classification:** Advanced Talent Management / High-Capacity Cognitive Architecture
 
-**Core Framework Reference:** This strategy paper builds upon the foundational framework protocol established in [4iAI Framework](README.md) Monograph.
+**Core Framework Reference:** This strategy paper builds upon the foundational framework protocol established in [4iAI Framework](../README.md) Monograph.
 
-![4iAI Open Standard](4iAI-open-standard-architecture.png)
+![4iAI Open Standard](../4iAI-open-standard-architecture.png)
 
 ## **EXECUTIVE SUMMARY**
 
