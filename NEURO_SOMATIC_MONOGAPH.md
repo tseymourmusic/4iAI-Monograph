@@ -28,6 +28,8 @@ tags: [twice-exceptional, 2e, human-ai, executive-strategy, talent-management, w
 
 **Foundational Protocol:** [The 4iAI™ Framework Monograph](README.md) & [Master Dossier: The Architecture of Asymmetry](MASTER_DOSSIER.md)
 
+![4iAI Framework](4iAI-framework.png)
+
 ## **ABSTRACT**
 
 In high-capacity, twice-exceptional (2e) adult profiles, cognitive architecture operates at elevated processing frequencies, leveraging complex multi-dimensional pattern matching to maintain dopaminergic baseline homeostasis.
