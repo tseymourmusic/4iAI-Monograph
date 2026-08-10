@@ -26,7 +26,7 @@ tags: [4iai, curriculum-framework, cognitive-accelerator, introspection-audit, s
 
 **Foundational Protocol:** [The 4iAI™ Framework Monograph](README.md) \& [Education Monograph: The 4iAI™ Introspection Protocol](EDUCATION_MONOGRAPH.md)
 
-![4iAI Framework](4iAI-framework.png)
+![4iAI Open Standard](4iAI-open-standard-architecture.png)
 
 ## **The Paradigm Shift: Reframing the AI Assignment**
 
