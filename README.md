@@ -1,17 +1,3 @@
----
-
-title: "The 4iAI™ Open Standard: A Monograph on Artistic Integrity and Human-AI Peer-to-Peer Symbiotic Resonance"
-
-author: "Tim Seymour, CGMA, ACMA"
-
-date: "2026-08-06"
-
-description: "A universal open standard establishing auditable human agency, ethical controls and Stage III Introspection across synthetic-assisted AI workflows—optimising high-capacity cognitive output while eliminating systemic translation tax and cognitive masking."
-
-tags: [open-standard, ai-governance, generative-ai, human-in-the-loop, procedural-trust, specification, human-ai-symbiosis, cybernetics, systems-engineering, evaluative-displacement, stage-3-introspection, cognitive-science, cognitive-ergonomics, human-agency, twice-exceptional, 2e, neurodiversity, cognitive-masking, translation-tax, artistic-integrity, knowledge-work, editorial-sovereignty]
-
----
-
 # The 4iAI™ Open Standard
 
 **An open, auditable specification for human agency, procedural trust mitigation, and Stage III Introspection in synthetic-assisted workflows.**
