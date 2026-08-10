@@ -16,9 +16,9 @@ tags: [4iai, education-monograph, introspection-protocol, higher-education, seco
 
 [![DOI](https://zenodo.org/badge/1325533231.svg)](https://doi.org/10.5281/zenodo.21827755)
 
-**Foundational Protocol:** [The 4iAI™ Framework Monograph](README.md)
+**Foundational Protocol:** [The 4iAI™ Framework Monograph](../README.md)
 
-![4iAI Open Standard](\4iAI-open-standard-architecture.png)
+![4iAI Open Standard](../4iAI-open-standard-architecture.png)
 
 # **EDUCATIONAL MONOGRAPH: The 4iAI™ Introspection Protocol**
 
