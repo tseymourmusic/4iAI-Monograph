@@ -24,7 +24,7 @@ tags: [4iai, curriculum-framework, cognitive-accelerator, introspection-audit, s
 
 **Grading Philosophy:** Students are graded **not** on the initial AI output, but on the quality and depth of their Stage III Introspection and final human calibration.
 
-**Foundational Protocol:** [The 4iAI™ Framework Monograph](README.md) /& [Education Monograph: The 4iAI™ Introspection Protocol](EDUCATION_MONOGRAPH.md)
+**Foundational Protocol:** [The 4iAI™ Framework Monograph](README.md) \& [Education Monograph: The 4iAI™ Introspection Protocol](EDUCATION_MONOGRAPH.md)
 
 ![4iAI Framework](4iAI-framework.png)
 
