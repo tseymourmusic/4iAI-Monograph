@@ -1,6 +1,6 @@
 ---
 
-title: "CLINICAL & OPERATIONAL MONOGRAPH"
+title: "CLINICAL AND OPERATIONAL MONOGRAPH"
 
 subtitle: "Neuro-Somatic Hardware Integration in Twice-Exceptional (2e) Systems: The Asymmetry-Symmetry Paradox as a Medical-Grade Specification for the 4iAI™ Stage IV Circuit"
 
@@ -8,7 +8,7 @@ author: "Tim Seymour, CGMA, ACMA"
 
 date: "2026-08-09"
 
-description: "High-Capacity / Twice-Exceptional (2e) Adult Hardware Regulation & Burnout Interception"
+description: "High-Capacity / Twice-Exceptional (2e) Adult Hardware Regulation and Burnout Interception"
 
 tags: [twice-exceptional, 2e, human-ai, executive-strategy, talent-management, workflow-optimization, knowledge-workers, cognitive-engineering, operational-efficiency, cybernetic-hci, real-time-synthesis, cns-override, human-ai-symbiosis]
 
@@ -24,9 +24,9 @@ tags: [twice-exceptional, 2e, human-ai, executive-strategy, talent-management, w
 
 **Domain:** Neuro-Somatic Biology, Cybernetic Systems Engineering, Clinical Metabolic Architecture
 
-**Subject Classification:** High-Capacity / Twice-Exceptional (2e) Adult Hardware Regulation \& Burnout Interception
+**Subject Classification:** High-Capacity / Twice-Exceptional (2e) Adult Hardware Regulation and Burnout Interception
 
-**Foundational Protocol:** [The 4iAI™ Open Standard Monograph](../README.md) \& [Master Dossier: The Architecture of Asymmetry](../docs/MASTER_DOSSIER.md)
+**Foundational Protocol:** [The 4iAI™ Open Standard Monograph](../README.md) and [Master Dossier: The Architecture of Asymmetry](../docs/MASTER_DOSSIER.md)
 
 ![4iAI Open Standard](../4iAI-open-standard-architecture.png)
 
@@ -44,17 +44,17 @@ By integrating high-load mechanical resistance training and Medical Nutrition Th
 
 |INTERNAL ARCHITECTURE (ASYMMETRICAL)||PERPETUAL SYSTEMIC DRIVE (SYMMETRICAL)|
 |-|-|-|
-|• Asynchronous development • Spiky cognitive profile • High-voltage processing engine|→|Construction of rigid open standards, precise protocols, \& total hardware calibration to balance the engine|
+|• Asynchronous development • Spiky cognitive profile • High-voltage processing engine|→|Construction of rigid open standards, precise protocols, and total hardware calibration to balance the engine|
 |||↓|
 |STAGE II: INSPIRATION Origin: Machine (Mirror) High-speed Structural Mapping|←|STAGE I: IDEA Origin: Human (Spark) Unstructured Cognitive Output|
 |↓|||
-|STAGE III: INTROSPECT Origin: Human (Moral Filter) Moral Audit \& Emotional Veto|→|STAGE IV: INTEGRATION Origin: Machine \& Human Hardware \& Software Lock|
+|STAGE III: INTROSPECT Origin: Human (Moral Filter) Moral Audit and Emotional Veto|→|STAGE IV: INTEGRATION Origin: Machine and Human Hardware and Software Lock|
 |||↓|
 
-|HARDWARE TIER: NEURO-SOMATIC ANCHORING (TOTAL SYSTEMIC SYMMETRY) • Mechanical CNS Override (Heavy Resistance / Endocrine Flush) • MNT Bioavailability \& Glymphatic Clearance • Systemic Dopaminergic Baseline Stabilisation  • Complete Somatic Parity (Eliminating Hardware/Software Divergence)|
+|HARDWARE TIER: NEURO-SOMATIC ANCHORING (TOTAL SYSTEMIC SYMMETRY) • Mechanical CNS Override (Heavy Resistance / Endocrine Flush) • MNT Bioavailability and Glymphatic Clearance • Systemic Dopaminergic Baseline Stabilisation  • Complete Somatic Parity (Eliminating Hardware/Software Divergence)|
 |-|
 
-## **SECTION 1: The Bio-Mechanical Failure Mode \& The Asymmetry-Symmetry Paradox**
+## **SECTION 1: The Bio-Mechanical Failure Mode and The Asymmetry-Symmetry Paradox**
 
 ### **1.1 The Core Thesis: The Asymmetry-Symmetry Paradox**
 
@@ -73,7 +73,7 @@ When this search for symmetry is applied exclusively to software, intellectual p
 
 Leaving the physical dimension unbalanced while ruthlessly optimising intellectual dimensions creates a lethal asymmetry within the architecture itself. Total system symmetry is not a luxury; it is a biological requirement.
 
-### **1.2 The External Obsession Illusion \& The Moving Baseline**
+### **1.2 The External Obsession Illusion and The Moving Baseline**
 
 To external, linear observers, the 2e mind's relentless pursuit of symmetry is routinely mischaracterised as "unhinged obsession," "hyper-fixation," or "inefficient perfectionism." This perception stems from a fundamental misunderstanding of the 2e operational model:
 
@@ -102,9 +102,9 @@ To satisfy the asymmetrical mind’s requirement for absolute structural symmetr
 |↓|||
 |MECHANICAL CNS OVERRIDE|→|Heavy compound load (Leg Day / Spinal axial loading)|
 |↓|||
-|MNT RECOVERY MATRIX|→|Bioavailable cofactors \& 12-hr Circadian Fast|
+|MNT RECOVERY MATRIX|→|Bioavailable cofactors and 12-hr Circadian Fast|
 |↓|||
-|RECALIBRATED BASELINE|→|Absolute hardware-software symmetry \& stability|
+|RECALIBRATED BASELINE|→|Absolute hardware-software symmetry and stability|
 
 ### **2.1 Protocol A: The Mechanical CNS Override (Heavy Resistance Training)**
 
@@ -112,7 +112,7 @@ When cognitive overdrive threatens to trigger an autonomic crash, or when an unc
 
 * **Endocrine Flush:** Large-muscle recruitment induces an acute surge of testosterone, growth hormone, and central endorphins, forcing the metabolic baseline out of static idle.
 * **BDNF Synthesis:** High-intensity resistance training stimulates Brain-Derived Neurotrophic Factor (BDNF) release, facilitating structural neuroplasticity and clearing post-flow cognitive haze.
-* **Somatic Grounding \& Systemic Symmetry:** High-axial load forces total real-time sensory focus, pulling processing bandwidth out of recursive mental loops and anchoring it into muscle tissue, joint stabilisation, and total somatic alignment.
+* **Somatic Grounding and Systemic Symmetry:** High-axial load forces total real-time sensory focus, pulling processing bandwidth out of recursive mental loops and anchoring it into muscle tissue, joint stabilisation, and total somatic alignment.
 
 Historically, twice-exceptional (2e) individuals and high-capacity knowledge workers misinterpret physical conditioning, resistance training, and elite physique development as external "social masking," superficial vanity, or a distraction from intellectual production.
 
@@ -128,12 +128,12 @@ This architecture formally rejects the "Physique as a Mask" hypothesis:
 
 Nutrition for a 2e engine must be engineered with the same precision as systems software to satisfy the demand for total operational optimisation:
 
-1. **Phytate Deactivation \& Enzymatic Co-Factors (06:00):** Acidulated 12-hour soaking of complex starches/seeds deactivates phytic acid, maximising intestinal absorption of Zinc and Magnesium—essential enzymatic cofactors for catecholamine and dopamine biosynthesis.
+1. **Phytate Deactivation and Enzymatic Co-Factors (06:00):** Acidulated 12-hour soaking of complex starches/seeds deactivates phytic acid, maximising intestinal absorption of Zinc and Magnesium—essential enzymatic cofactors for catecholamine and dopamine biosynthesis.
 2. **The Curcumin/Monoamine MAO-Inhibition Axis:** Targeted liposomal curcumin combined with piperine acts as a natural monoamine oxidase inhibitor (suppressing MAO-A and MAO-B). This inhibits the rapid synaptic degradation of dopamine and serotonin following hyper-focus sessions, preventing severe post-flow troughs.
 3. **Vascular Cortex Perfusion (09:00):** Precise sequencing of proteolytic enzymes (actinidin via kiwi) followed by bioavailable choline (eggs) and nitric oxide precursors (beetroot, cacao) drives cerebral micro-vascular perfusion, supplying blood flow to sustained attention networks.
-4. **Glymphatic Clearance \& Circadian Fasting (17:00–05:00):** A strict 12-hour metabolic fast initiates autophagy and supports glymphatic waste clearance, removing metabolic debris accumulated during high-voltage processing sessions.
+4. **Glymphatic Clearance and Circadian Fasting (17:00–05:00):** A strict 12-hour metabolic fast initiates autophagy and supports glymphatic waste clearance, removing metabolic debris accumulated during high-voltage processing sessions.
 
-## **SECTION 3: Clinical \& Organisational Significance**
+## **SECTION 3: Clinical and Organisational Significance**
 
 |**Metric**|**Unshielded / Asymmetrical 2e System**|**Integrated 4iAI™ Hardware-Software System**|
 |-|-|-|
