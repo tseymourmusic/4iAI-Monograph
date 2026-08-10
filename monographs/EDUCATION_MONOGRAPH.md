@@ -16,10 +16,6 @@ tags: [4iai, education-monograph, introspection-protocol, higher-education, seco
 
 [![DOI](https://zenodo.org/badge/1325533231.svg)](https://doi.org/10.5281/zenodo.21827755)
 
-**Foundational Protocol:** [The 4iAI™ Open Standard Monograph](../README.md)
-
-![4iAI Open Standard](../4iAI-open-standard-architecture.png)
-
 # **EDUCATIONAL MONOGRAPH: The 4iAI™ Introspection Protocol**
 
 **TITLE:** Beyond ‘The Passable’: Eliminating Passive AI Consumption in Higher and Secondary Education via the 4iAI™ Introspection Protocol
@@ -29,6 +25,10 @@ tags: [4iai, education-monograph, introspection-protocol, higher-education, seco
 **DATE:** August 2026
 
 **TARGET PUBLICATION:** *Journal of Educational Technology \& Cognitive Ergonomics*
+
+**Foundational Protocol:** [The 4iAI™ Open Standard Monograph](../README.md)
+
+![4iAI Open Standard](../4iAI-open-standard-architecture.png)
 
 ## **ABSTRACT**
 
