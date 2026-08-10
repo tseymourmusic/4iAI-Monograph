@@ -1,6 +1,6 @@
 ---
 
-title: "Managing Exceptional Cognitive Profiles"
+title: "EXECUTIVE STRATEGY PAPER: Managing Exceptional Cognitive Profiles"
 
 subtitle: "Optimised Performance Protocols and Peer-Level Symbiotic Human-AI Workflows for Twice-Exceptional (2e) Knowledge Workers in Traditional Operating Environments"
 
