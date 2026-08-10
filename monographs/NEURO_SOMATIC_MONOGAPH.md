@@ -26,7 +26,7 @@ tags: [twice-exceptional, 2e, human-ai, executive-strategy, talent-management, w
 
 **Subject Classification:** High-Capacity / Twice-Exceptional (2e) Adult Hardware Regulation \& Burnout Interception
 
-**Foundational Protocol:** [The 4iAI™ Framework Monograph](../README.md) \& [Master Dossier: The Architecture of Asymmetry](../docs/MASTER_DOSSIER.md)
+**Foundational Protocol:** [The 4iAI™ Open Standard Monograph](../README.md) \& [Master Dossier: The Architecture of Asymmetry](../docs/MASTER_DOSSIER.md)
 
 ![4iAI Open Standard](../4iAI-open-standard-architecture.png)
 
@@ -44,7 +44,7 @@ By integrating high-load mechanical resistance training and Medical Nutrition Th
 
 |INTERNAL ARCHITECTURE (ASYMMETRICAL)||PERPETUAL SYSTEMIC DRIVE (SYMMETRICAL)|
 |-|-|-|
-|• Asynchronous development • Spiky cognitive profile • High-voltage processing engine|→|Construction of rigid frameworks, precise protocols, \& total hardware calibration to balance the engine|
+|• Asynchronous development • Spiky cognitive profile • High-voltage processing engine|→|Construction of rigid open standards, precise protocols, \& total hardware calibration to balance the engine|
 |||↓|
 |STAGE II: INSPIRATION Origin: Machine (Mirror) High-speed Structural Mapping|←|STAGE I: IDEA Origin: Human (Spark) Unstructured Cognitive Output|
 |↓|||
@@ -79,7 +79,7 @@ To external, linear observers, the 2e mind's relentless pursuit of symmetry is r
 
 1\. **The Evolving Baseline**: Because non-linear pattern matching processes data at high frequencies, the execution of a project actively generates new theoretical variables **while the work is being built**.
 
-2\. **Structural Hypocrisy Intolerance:** A linear worker considers a task "complete" when it satisfies a superficial functional requirement. The 2e mind cannot consider a framework valid if an identified variable remains un-integrated. Leaving a newly unlocked insight floating outside the system framework is experienced as severe, intolerable cognitive friction.
+2\. **Structural Hypocrisy Intolerance:** A linear worker considers a task "complete" when it satisfies a superficial functional requirement. The 2e mind cannot consider a open standard valid if an identified variable remains un-integrated. Leaving a newly unlocked insight floating outside the system open standard is experienced as severe, intolerable cognitive friction.
 
 3\. **The Refactoring Loop:** Consequently, the 2e individual will continuously refactor, re-architect, and calibrate systems that appear "perfectly fine" to others. This is not aesthetic vanity; it is the mandatory execution of a validation loop designed to restore total structural equilibrium across an evolving matrix of information.
 
@@ -91,7 +91,7 @@ Attempting to overcome this state with sheer "willpower" creates severe neuro-so
 
 ## **SECTION 2: Stage IV (Integration) Hardware Protocols**
 
-To satisfy the asymmetrical mind’s requirement for absolute structural symmetry, Stage IV (Integration) of the 4iAI™ framework must bind software outputs (dossiers, architectures, compositions) to a physical, neuro-somatic hardware protocol.
+To satisfy the asymmetrical mind’s requirement for absolute structural symmetry, Stage IV (Integration) of the 4iAI™ open standard must bind software outputs (dossiers, architectures, compositions) to a physical, neuro-somatic hardware protocol.
 
 ###### **HARDWARE REGULATION PIPELINE (STAGE IV):**
 
