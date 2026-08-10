@@ -1,14 +1,21 @@
-cff-version: 1.2.0
-message: "If you reference this monograph, please cite it as below."
+cff-version: 1.4.0
+message: "If you reference or adopt this open standard, please cite it as below."
 authors:
   - family-names: "Seymour"
     given-names: "Tim"
-title: "The 4iAI™ Framework: A Monograph on Artistic Integrity and Human-AI Peer-to-Peer Symbiotic Resonance"
-version: "1.0.0"
+title: "The 4iAI™ Open Standard: Specification and Monograph on Artistic Integrity, Human Agency, and Peer-to-Peer Symbiotic Resonance"
+version: "1.4.0"
 date-released: 2026-08-06
-url: "https://www.tim-seymour.com"
+doi: "10.5281/zenodo.21869532"
+url: "https://www.tim-seymour.com/4i-of-ai"
+repository-code: "https://github.com/tseymourmusic/4iAI-Open-Standard"
+license: "MIT"
 keywords:
   - "Human-AI Symbiosis"
+  - "Stage III Introspection"
+  - "Evaluative Displacement"
+  - "Generative AI Governance"
   - "Neurodivergent Ergonomics"
   - "Artistic Integrity"
   - "Cognitive Masking"
+  - "Open Standard"
