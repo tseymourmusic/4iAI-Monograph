@@ -6,7 +6,7 @@ subtitle: "Applied Neuro-Somatic Hardware Calibration and Real-Time Cybernetic S
 
 Parent: "MASTER DOSSIER: The Architecture of Asymmetry"
 
-nav_order: 4
+nav_order: 3
 
 author: "Tim Seymour, CGMA, ACMA"
 
