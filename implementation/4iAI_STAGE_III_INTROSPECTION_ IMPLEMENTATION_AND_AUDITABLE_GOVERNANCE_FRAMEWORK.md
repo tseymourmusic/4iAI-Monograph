@@ -24,9 +24,9 @@ tags: [4iai, stage-iii-implementation, auditable-governance, json-ld-schema, ent
 
 **Classification:** Open Standard (MIT License)
 
-**Foundational Protocol:** [The 4iAI™ open standard Monograph](README.md) and [Education Monograph: The 4iAI™ Introspection Protocol](EDUCATION_MONOGRAPH.md)
+**Foundational Protocol:** [The 4iAI™ open standard Monograph](../README.md) and [Education Monograph: The 4iAI™ Introspection Protocol](../monographs/EDUCATION_MONOGRAPH.md)
 
-![4iAI Open Standard](4iAI-open-standard-architecture.png)
+![4iAI Open Standard](../4iAI-open-standard-architecture.png)
 
 ## **1. Executive Summary and Scope**
 
