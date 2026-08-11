@@ -77,9 +77,9 @@ Operators frequently experience anxiety when a synthetic output requires minimal
 
 The Dialogic Framework resolves this paradox:
 
-> \\\*\\\*The Resonance Axiom:\\\*\\\*
+*The Resonance Axiom:*
 
-> Minimal edits in Stage III following a deep dialectical dialogue in Stage I and II do \\\*\\\*not\\\*\\\* indicate passive consumption. They indicate that the operator successfully constrained the solution space prior to generation. The intellectual work was not skipped; it was \\\*\\\*front-loaded\\\*\\\*.
+Minimal edits in Stage III following a deep dialectical dialogue in Stage I and II do \\\*\\\*not\\\*\\\* indicate passive consumption. They indicate that the operator successfully constrained the solution space prior to generation. The intellectual work was not skipped; it was \\\*\\\*front-loaded\\\*\\\*.
 
 ## **5. Operational Workflow: The 4-Step Dialogic Protocol**
 
