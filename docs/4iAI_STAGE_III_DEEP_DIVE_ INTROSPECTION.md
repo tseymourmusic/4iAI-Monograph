@@ -4,7 +4,7 @@ title: "4iAI™ STAGE III DEEP DIVE: INTROSPECTION, MORAL AUTHORSHIP, AND THE PS
 
 subtitle: "Operational & Psychological Blueprint for Human Agency, Metacognitive Verification, and Mitigating Procedural Trust"
 
-parent: "THE 4i™ STAGES"
+parent: "The 4iAI™ Open Standard"
 
 nav_order: 2
 
