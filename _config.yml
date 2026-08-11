@@ -7,3 +7,7 @@ search_enabled: true
 
 # Navigation settings
 nav_sort: case_sensitive
+
+# Automated XML Sitemap Generation
+plugins:
+  - jekyll-sitemap
