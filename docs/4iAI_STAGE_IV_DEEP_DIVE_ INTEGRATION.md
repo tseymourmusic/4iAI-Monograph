@@ -115,11 +115,10 @@ When operators achieve peak dialogic resonance, Stage IV feels deceptively fast.
 
 The 4iAI™ framework refutes this cognitive guilt:
 
-> \*\*The Integration Axiom:\*\*
+> **The Integration Axiom:**
 
 > A ship’s captain does not push the vessel across the ocean with their bare hands. They chart the course, read the stars, navigate the storms, and take full responsibility for the ship and its cargo.
-
-> The synthetic engine provides the wind; the human provides the rudder, the course, and the moral soul. \*\*The Captain is the Author.\*\*
+> The synthetic engine provides the wind; the human provides the rudder, the course, and the moral soul. **The Captain is the Author.**
 
 ### **Summary**
 
