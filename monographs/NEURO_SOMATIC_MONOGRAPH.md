@@ -6,7 +6,7 @@ subtitle: "Neuro-Somatic Hardware Integration in Twice-Exceptional (2e) Systems:
 
 parent: "MASTER DOSSIER: The Architecture of Asymmetry"
 
-nav_order: 1
+nav_order: 2
 
 author: "Tim Seymour, CGMA, ACMA"
 
