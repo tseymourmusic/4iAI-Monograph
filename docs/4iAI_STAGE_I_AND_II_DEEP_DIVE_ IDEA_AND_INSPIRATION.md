@@ -40,12 +40,10 @@ If a transactional prompt carries minimal human signal, the model fills the conc
 **TRANSACTIONAL PROMPTING (Cold Input):**
 
 |\[Low-Intent Prompt]|→|\[Uncalibrated LLM]|→|\[Generic AI Output]|→|\[Heavy Stage III Friction / Alienation]|
-|-|-|-|-|-|-|-|
 
 **DIALOGIC SYMBIOSIS (Context Saturation):**
 
 |\[Exploratory Dialogue]|→|\[Context Saturation]|→|\[Precision Prompt]|→|\[Synthetic Mirror]|→|\[Rapid Stage III Validation]|
-|-|-|-|-|-|-|-|-|-|
 
 When an operator relies on transactional prompting, the heavy lifting of aligning the text with human intent is entirely deferred to Stage III Introspection. This creates extreme cognitive friction, manual rewriting, and eventual operator fatigue, leading directly to the **procedural trust trap** where the human defers subject matter expertise over to the synthetic collaborator.
 
