@@ -1,3 +1,19 @@
+---
+
+title: "4iAI™ STAGE III DEEP DIVE: INTROSPECTION, MORAL AUTHORSHIP, AND THE PSYCHOLOGY OF OWNERSHIP"
+
+subtitle: "Operational & Psychological Blueprint for Human Agency, Metacognitive Verification, and Mitigating Procedural Trust"
+
+author: "Tim Seymour, CGMA, ACMA"
+
+date: "2026-08-11"
+
+description: "A foundational monograph establishing the metacognitive mechanisms, veto thresholds, and psychological frameworks required to prevent cognitive self-alienation and preserve sovereign human authorship."
+
+tags: [4iai, stage-iii, introspection, moral-authorship, psychology-of-ownership, procedural-trust, evaluative-displacement, sovereign-author, human-ai-symbiosis, open-standard]
+
+---
+
 # **4iAI™ STAGE III DEEP DIVE: INTROSPECTION, MORAL AUTHORSHIP, AND THE PSYCHOLOGY OF OWNERSHIP**
 
 **Author:** Tim Seymour, CGMA, ACMA
@@ -5,6 +21,10 @@
 **Specification:** 4iAI™ Stage III Operational and Psychological Blueprint
 
 **Classification:** Open Standard (MIT License)
+
+**Foundational Protocol:** [The 4iAI™ open standard Monograph](../README.md) and [Executive Strategy Monograph](../monographs/EXECUTIVE_STRATEGY_PAPER.md)
+
+![4iAI Open Standard](../4iAI-open-standard-architecture.png)
 
 ## **1\. The Core Crisis: Procedural Trust and Self-Alienation**
 
