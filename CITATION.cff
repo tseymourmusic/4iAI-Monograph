@@ -3,7 +3,7 @@ message: "If you reference or adopt this open standard, please cite it as below.
 authors:
   - family-names: "Seymour"
     given-names: "Tim"
-title: "The 4iAI™ Open Standard"
+title: "The 4iAI Open Standard: Specification, Enterprise Governance Framework, and Complete Stage-Gate Deep Dive Monograph Series"
 version: "2.0.0"
 date-released: 2026-08-11
 license: "MIT"
