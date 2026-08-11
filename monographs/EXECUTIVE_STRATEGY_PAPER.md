@@ -6,7 +6,7 @@ subtitle: "Optimised Performance Protocols and Peer-Level Symbiotic Human-AI Wor
 
 Parent: "MASTER DOSSIER: The Architecture of Asymmetry"
 
-nav_order: 3
+nav_order: 2
 
 author: "Tim Seymour, CGMA, ACMA"
 
