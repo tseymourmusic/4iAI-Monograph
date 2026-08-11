@@ -4,9 +4,9 @@ title: "EXECUTIVE STRATEGY PAPER: 4iAI™ Managing Exceptional Cognitive Profile
 
 subtitle: "Optimised Performance Protocols and Peer-Level Symbiotic Human-AI Workflows for Twice-Exceptional (2e) Knowledge Workers in Traditional Operating Environments"
 
-parent: "MASTER DOSSIER: The 4iAI™ Architecture of Asymmetry"
+has_children: true
 
-nav_order: 1
+nav_order: 3
 
 author: "Tim Seymour, CGMA, ACMA"
 
