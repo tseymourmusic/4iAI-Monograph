@@ -4,7 +4,7 @@ title: "MASTER DOSSIER: The 4iAI™ Architecture of Asymmetry"
 
 subtitle: "Multi-Valued Operational Mechanics and Symbiotic Self-Taxonomy in Twice-Exceptional (2e) Human-AI Systems"
 
-parent: true
+parent: "EXECUTIVE STRATEGY PAPER: 4iAI™ Managing Exceptional Cognitive Profiles"
 
 nav_order: 1
 
