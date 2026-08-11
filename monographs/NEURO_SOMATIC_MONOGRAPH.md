@@ -4,7 +4,7 @@ title: "CLINICAL AND OPERATIONAL MONOGRAPH: The 4iAI™ Asymmetry-Symmetry Parad
 
 subtitle: "Neuro-Somatic Hardware Integration in Twice-Exceptional (2e) Systems: The Asymmetry-Symmetry Paradox as a Medical-Grade Specification for the 4iAI™ Stage IV Circuit"
 
-parent: "MASTER DOSSIER: The 4iAI™ Architecture of Asymmetry"
+parent: "EXECUTIVE STRATEGY PAPER: 4iAI™ Managing Exceptional Cognitive Profiles"
 
 nav_order: 2
 
