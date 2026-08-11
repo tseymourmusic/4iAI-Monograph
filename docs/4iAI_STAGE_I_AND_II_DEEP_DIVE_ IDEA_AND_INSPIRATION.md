@@ -26,7 +26,7 @@ tags: [4iai, stage-i, 4iai, stage-ii, idea, inspiration, moral-authorship, psych
 
 **Foundational Protocol:** [The 4iAI™ open standard Monograph](../README.md) and [Executive Strategy Monograph](../monographs/EXECUTIVE_STRATEGY_PAPER.md)
 
-![4iAI Open Standard](4iAI-open-standard-architecture.png)
+![4iAI Open Standard](../4iAI-open-standard-architecture.png)
 
 ## **1. The Flaw of Transactional Prompting**
 
