@@ -1,12 +1,32 @@
-# **4iAI™ STAGE III INTROSPECTION: IMPLEMENTATION AND AUDITABLE GOVERNANCE FRAMEWORK**
+---
 
-\---
+title: "4iAI™ STAGE III INTROSPECTION IMPLEMENTATION & AUDITABLE GOVERNANCE FRAMEWORK"
+
+subtitle: "Enterprise Reference Architecture, Canonical JSON-LD Audit Schema, and Regulatory Compliance Crosswalk"
+
+author: "Tim Seymour, CGMA, ACMA"
+
+date: "2026-08-11"
+
+description: "An enterprise engineering specification defining human-in-the-loop stage-gate controls, machine-readable JSON-LD audit schemas, and direct compliance mapping to NIST, ISO, and DoD frameworks."
+
+tags: [4iai, stage-iii-implementation, auditable-governance, json-ld-schema, enterprise-compliance, nist-ai-rmf, iso-42001, dod-ethical-ai, human-in-the-loop, open-standard]
+
+---
+
+[![DOI](https://zenodo.org/badge/1325533231.svg)](https://doi.org/10.5281/zenodo.21827755)
+
+# **4iAI™ STAGE III INTROSPECTION: IMPLEMENTATION AND AUDITABLE GOVERNANCE FRAMEWORK**
 
 **Author:** Tim Seymour, CGMA, ACMA
 
 **Specification:** 4iAI™ Stage III Reference Implementation and Enterprise Compliance Standard
 
 **Classification:** Open Standard (MIT License)
+
+**Foundational Protocol:** [The 4iAI™ open standard Monograph](README.md) and [Education Monograph: The 4iAI™ Introspection Protocol](EDUCATION_MONOGRAPH.md)
+
+![4iAI Open Standard](4iAI-open-standard-architecture.png)
 
 ## **1. Executive Summary and Scope**
 
@@ -108,7 +128,7 @@ Systems engineering teams and Quality Assurance auditors must execute the follow
 * **\[ ] Structural Veto Test Passed:** Has at least one structural premise, default recommendation, or generated pathway been critically evaluated and explicitly validated or overturned?
 * **\[ ] Contextual Signal Injected:** Does the final deliverable contain domain-specific constraints or lived operational context that could not have been synthesised by the underlying model independently?
 * **\[ ] Defensibility Test Satisfied:** Can the operator defend the technical and moral assertions within the document during an external review without citing "the AI generated it"?
-* \[ ] **Provenance Metadata Attached:** Is the standardised 4iAI™ JSON-LD audit log generated, signed, and permanently archived in the version control record?
+* **\[ ] Provenance Metadata Attached:** Is the standardised 4iAI™ JSON-LD audit log generated, signed, and permanently archived in the version control record?
 
 ## **7. Summary and Implementation Roadmap**
 
