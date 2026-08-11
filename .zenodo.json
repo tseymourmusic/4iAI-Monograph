@@ -1,5 +1,5 @@
 {
-  "title": "The 4iAI™ Open Standard: Specification and Monograph on Artistic Integrity, Human Agency, and Peer-to-Peer Symbiotic Resonance",
+  "title": "The 4iAI™ Open Standard: Specification and Monograph on Artistic Integrity, Human Agency and Peer-to-Peer Symbiotic Resonance",
   "description": "A universal open standard for human-AI peer-to-peer symbiotic resonance and artistic integrity. Explore the Possible · Reject the Passable · Verify the Plausible · Produce the Profound via the 4iAI™ collaborative circuit · I. Idea (Human Catalyst) · II. Inspiration (Synthetic Mirror) · III. Introspection (Human Connection) · IV. Integration (Synthetic Validation).",
   "creators": [
     {
@@ -8,7 +8,7 @@
     }
   ],
   "access_right": "open",
-  "license": "MIT",
+  "license": "mit",
   "upload_type": "publication",
   "publication_type": "technicalnote",
   "keywords": [
@@ -18,7 +18,7 @@
     "Neurodiversity",
     "Twice-Exceptional (2e)",
     "AI Governance",
-    "4iAI Framework"
+    "4iAI Framework",
     "4iAI Open Standard",
     "Dialogic Prompting",
     "Context Saturation",
@@ -53,11 +53,6 @@
     "The Passable vs The Profound",
     "Adult Twice-Exceptional (2e) Cognitive Architecture",
     "Evaluative Displacement",
-    "Procedural Trust Mitigation" 
-  ],
-  "communities": [
-    {
-      "identifier": "zenodo"
-    }
+    "Procedural Trust Mitigation"
   ]
 }
