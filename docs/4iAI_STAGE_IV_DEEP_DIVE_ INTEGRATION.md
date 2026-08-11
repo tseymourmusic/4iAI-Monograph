@@ -6,7 +6,7 @@ subtitle: "Operational & Psychological Blueprint for Human Agency, Metacognitive
 
 author: "Tim Seymour, CGMA, ACMA"
 
-parent: "The 4iAI™ Open Standard"
+parent: "THE 4iAI™ OPEN STANDARD"
 
 nav_order: 3
 
