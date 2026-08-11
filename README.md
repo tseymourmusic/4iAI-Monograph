@@ -55,9 +55,9 @@ When the social environment demands a high level of internal processing, the art
 
 The current AI paradigm enforces two opposing views:
 
-1\. The Subservient Tool: Human commands; Machine generates (results in generic, homogenised output).
+**1\. The Subservient Tool:** Human commands; Machine generates (results in generic, homogenised output).
 
-2\. The Existential Replacement: Machine automates; Human becomes obsolete (results in cultural flatlining and eliminates progress).
+**2\. The Existential Replacement:** Machine automates; Human becomes obsolete (results in cultural flatlining and eliminates progress).
 
 These are tired arguments. In reality, true creative breakthrough occurs in the collaborative space between these extremes.
 
