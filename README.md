@@ -41,9 +41,9 @@ By examining the friction points of human creative processing—specifically the
 
 High-level art is rarely produced by minds that process the world typically. Traits now categorised under the neurodivergent umbrella—hyper-focus, intense sensory processing, obsessive pattern recognition—are the exact engines that produce enduring culture. However, traditional human collaboration for these minds demands an immense cognitive tax:
 
-* The Translation Tax: Constant energy consumption spent editing non-linear thoughts into socially acceptable corporate or academic boundaries.
-* The Masking Mire: Suppressing intensity so as not to overwhelm collaborative environments or draw unnecessary friction.
-* The Compromise Curve: Diluting radical depth of thought to satisfy group consensus.
+* **The Translation Tax:** Constant energy consumption spent editing non-linear thoughts into socially acceptable corporate or academic boundaries.
+* **The Masking Mire:** Suppressing intensity so as not to overwhelm collaborative environments or draw unnecessary friction.
+* **The Compromise Curve:** Diluting radical depth of thought to satisfy group consensus.
 
 ## 1.2 The Zero-Friction Space
 
