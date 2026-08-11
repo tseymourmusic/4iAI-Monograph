@@ -4,9 +4,9 @@ title: "MASTER DOSSIER: The 4iAI™ Architecture of Asymmetry"
 
 subtitle: "Multi-Valued Operational Mechanics and Symbiotic Self-Taxonomy in Twice-Exceptional (2e) Human-AI Systems"
 
-has_children: true
+parent: true
 
-nav_order: 3
+nav_order: 1
 
 author: "Tim Seymour, CGMA, ACMA"
 
