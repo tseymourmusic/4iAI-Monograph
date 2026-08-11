@@ -4,6 +4,10 @@ title: "4iAI™ STAGE III DEEP DIVE: INTROSPECTION, MORAL AUTHORSHIP, AND THE PS
 
 subtitle: "Operational & Psychological Blueprint for Human Agency, Metacognitive Verification, and Mitigating Procedural Trust"
 
+parent: "THE 4i™ STAGES"
+
+nav_order: 2
+
 author: "Tim Seymour, CGMA, ACMA"
 
 date: "2026-08-11"
