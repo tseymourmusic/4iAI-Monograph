@@ -4,6 +4,10 @@ title: "EDUCATIONAL MONOGRAPH: The 4iAI™ Introspection Protocol"
 
 subtitle: "Beyond 'The Passable': Eliminating Passive AI Consumption in Higher and Secondary Education via the 4iAI™ Introspection Protocol"
 
+has_children: true
+
+nav_order: 3
+
 author: "Tim Seymour, CGMA, ACMA"
 
 date: "2026-08-10"
