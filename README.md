@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "The 4iAI™ Open Standard"
+title: "THE 4iAI™ OPEN STANDARD"
 description: "A universal open standard for human-AI peer-to-peer symbiotic resonance and artistic integrity."
 permalink: /
 has_children: true
