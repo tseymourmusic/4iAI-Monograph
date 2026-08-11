@@ -14,6 +14,8 @@ tags: [4iai, stage-iii, introspection, moral-authorship, psychology-of-ownership
 
 ---
 
+[![DOI](https://zenodo.org/badge/1325533231.svg)](https://doi.org/10.5281/zenodo.21827755)
+
 # **4iAI™ STAGE III DEEP DIVE: INTROSPECTION, MORAL AUTHORSHIP, AND THE PSYCHOLOGY OF OWNERSHIP**
 
 **Author:** Tim Seymour, CGMA, ACMA
