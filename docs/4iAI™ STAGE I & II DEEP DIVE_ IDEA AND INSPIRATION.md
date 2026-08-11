@@ -1,3 +1,21 @@
+---
+
+title: "4iAI™ STAGE I AND II DEEP DIVE: IDEA AND INSPIRATION DIALOGIC PROMPTING, CONTEXT SATURATION, AND SYMBIOTIC RESONANCE"
+
+subtitle: "Operational & Psychological Blueprint for Human Agency, Metacognitive Verification, and Mitigating Procedural Trust"
+
+author: "Tim Seymour, CGMA, ACMA"
+
+date: "2026-08-11"
+
+description: "A foundational monograph establishing the metacognitive mechanisms, veto thresholds, and psychological frameworks required to prevent cognitive self-alienation and preserve sovereign human authorship."
+
+tags: [4iai, stage-i, 4iai, stage-ii, idea, inspiration, moral-authorship, psychology-of-ownership, procedural-trust, evaluative-displacement, sovereign-author, human-ai-symbiosis, open-standard]
+
+---
+
+[![DOI](https://zenodo.org/badge/1325533231.svg)](https://doi.org/10.5281/zenodo.21827755)
+
 # **4iAI™ STAGE I AND II DEEP DIVE: IDEA AND INSPIRATION DIALOGIC PROMPTING, CONTEXT SATURATION, AND SYMBIOTIC RESONANCE**
 
 **Author:** Tim Seymour, CGMA, ACMA
@@ -5,6 +23,10 @@
 **Specification:** 4iAI™ Stage I and II Operational and Dialectical Blueprint
 
 **Classification:** Open Standard (MIT License)
+
+**Foundational Protocol:** [The 4iAI™ open standard Monograph](../README.md) and [Executive Strategy Monograph](../monographs/EXECUTIVE_STRATEGY_PAPER.md)
+
+![4iAI Open Standard](4iAI-open-standard-architecture.png)
 
 ## **1. The Flaw of Transactional Prompting**
 
@@ -75,11 +97,11 @@ Instead of discovering structural errors, stylistic drift, or moral misalignment
 
 Operators frequently experience anxiety when a synthetic output requires minimal physical edits, fearing they have slipped into passive consumption.
 
-The Dialogic Framework resolves this paradox:
+The Dialogic Framework resolves this paradox.
 
-*The Resonance Axiom:*
+**The Resonance Axiom:**
 
-Minimal edits in Stage III following a deep dialectical dialogue in Stage I and II do \\\*\\\*not\\\*\\\* indicate passive consumption. They indicate that the operator successfully constrained the solution space prior to generation. The intellectual work was not skipped; it was \\\*\\\*front-loaded\\\*\\\*.
+Minimal edits in Stage III following a deep dialectical dialogue in Stage I and II do **not** indicate passive consumption. They indicate that the operator successfully constrained the solution space prior to generation. The intellectual work was not skipped; it was **front-loaded**
 
 ## **5. Operational Workflow: The 4-Step Dialogic Protocol**
 
