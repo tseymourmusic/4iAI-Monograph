@@ -96,7 +96,6 @@ To measure whether an artifact has achieved Stage IV Integration, evaluate it ag
 Before releasing any synthetic-assisted work into an enterprise, educational, or public environment, the operator must execute the **Stage IV Integration SOP**:
 
 |STEP 1: BIND CONTEXT AUTHORSHIP "Embed local, real-world constraints and data."|→|STEP 2: CLAIM ACCOUNTABILITY "Can I defend every claim without blaming the tool?"|→|STEP 3: SEAL AUTHORSHIP "Inject personal signature and final moral sign-off."|
-|-|-|-|-|-|
 
 ### **4.1. The Contextual Binding Test**
 
