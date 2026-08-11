@@ -52,13 +52,13 @@ Educational institutions have largely responded with reactive defence mechanisms
 
 #### **Traditional Model (Cognitive Atrophy):**
 
-|Prompt|→|Uncalibrated LLM Output|→|Copy/Paste|→|"The Passable" Submission|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Prompt|→|Uncalibrated LLM Output|→|Copy/Paste|→|"The Passable" Submission|
 
 #### **4iAI™ Educational Model (Cognitive Elevation):**
 
-|Stage I (Idea)|→|Stage II (Inspiration)|→|Stage III (Introspection)|→|Stage IV (Integration)|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Stage I (Idea)|→|Stage II (Inspiration)|→|Stage III (Introspection)|→|Stage IV (Integration)|
 |\[Human Intent]||\[Synthetic Mirror]||\[**HUMAN TRUTH FILTER**]||\[The Profound Artifact]|
 
 ### **The 4iAI™ Solution: Evaluative Displacement**
