@@ -24,9 +24,9 @@ tags: [4iai, curriculum-open standard, cognitive-accelerator, introspection-audi
 
 **Grading Philosophy:** Students are graded **not** on the initial AI output, but on the quality and depth of their Stage III Introspection and final human calibration.
 
-**Foundational Protocol:** [The 4iAI™ open standard Monograph](README.md) and [Education Monograph: The 4iAI™ Introspection Protocol](EDUCATION_MONOGRAPH.md)
+**Foundational Protocol:** [The 4iAI™ open standard Monograph](../README.md) and [Education Monograph: The 4iAI™ Introspection Protocol](../monographs/EDUCATION_MONOGRAPH.md)
 
-![4iAI Open Standard](4iAI-open-standard-architecture.png)
+![4iAI Open Standard](../4iAI-open-standard-architecture.png)
 
 ## **The Paradigm Shift: Reframing the AI Assignment**
 
