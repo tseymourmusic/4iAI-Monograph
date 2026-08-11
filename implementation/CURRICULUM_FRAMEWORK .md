@@ -4,6 +4,10 @@ title: "CURRICULUM OPEN STANDARD: THE 4iAI™ COGNITIVE ACCELERATOR"
 
 subtitle: "Shifting Student Behaviour from Passive Consumption ('The Passable') to Active Intellectual Ownership ('The Profound')"
 
+parent: "EDUCATIONAL MONOGRAPH: The 4iAI™ Introspection Protocol"
+
+nav_order: 1
+
 author: "Tim Seymour, CGMA, ACMA"
 
 date: "2026-08-10"
