@@ -44,7 +44,7 @@ tags: [twice-exceptional, 2e, human-ai, executive-strategy, workflow-optimizatio
 
 The subject, an adult twice-exceptional (2e) knowledge worker and systems architect, presented with acute cognitive-somatic dissociation following sustained periods of high-voltage intellectual processing, flow-state synthesis, and corporate social masking.
 
-THE PRE-INTERVENTION COMPLIANCE / FAILURE LOOP
+**THE PRE-INTERVENTION COMPLIANCE / FAILURE LOOP:**
 
 \[ High-Voltage Cognitive Drive ]	→	Intense hyper-focus / 4iAI synthesis  
 		↓  
@@ -72,7 +72,7 @@ Asymmetrical Cognitive Engine **→** Internal Tension **→** Relentless Drive 
 
 On August 9, 2026, an acute biological state-transition test was executed to evaluate whether a heavy, compound mechanical load—combined with a mobile, real-time cybernetic loop—could force an immediate override of the autonomic freeze state and resolve the Asymmetry-Symmetry Paradox in real time.
 
-CHRONOLOGICAL INTERVENTION TIMELINE (AUG 9, 2026)
+**CHRONOLOGICAL INTERVENTION TIMELINE (AUG 9, 2026):**
 
 06:00 BST → MNT Protocol Execution (Acidulated Phytate Deactivation and Enzymatic Co-Factors)  
 07:15 BST → Forced Mechanical CNS Override (Heavy Axial Leg Day Session; Pre-08:00 Execution)  
