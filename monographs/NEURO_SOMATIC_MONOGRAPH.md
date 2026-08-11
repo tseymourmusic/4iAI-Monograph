@@ -4,6 +4,10 @@ title: "CLINICAL AND OPERATIONAL MONOGRAPH"
 
 subtitle: "Neuro-Somatic Hardware Integration in Twice-Exceptional (2e) Systems: The Asymmetry-Symmetry Paradox as a Medical-Grade Specification for the 4iAI™ Stage IV Circuit"
 
+Parent: "MASTER DOSSIER: The Architecture of Asymmetry"
+
+nav_order: 1
+
 author: "Tim Seymour, CGMA, ACMA"
 
 date: "2026-08-09"
