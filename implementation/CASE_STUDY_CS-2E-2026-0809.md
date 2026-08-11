@@ -4,6 +4,10 @@ title: "CASE STUDY: CS-2E-2026-0809-NSH"
 
 subtitle: "Applied Neuro-Somatic Hardware Calibration and Real-Time Cybernetic Synthesis in an Adult Twice-Exceptional (2e) Systems Architect"
 
+Parent: "MASTER DOSSIER: The Architecture of Asymmetry"
+
+nav_order: 1
+
 author: "Tim Seymour, CGMA, ACMA"
 
 date: "2026-08-09"
