@@ -1,13 +1,8 @@
 --
-
 layout: default
-
 title: "The 4iAI™ Open Standard"
-
 has_children: true
-
 nav_order: 1
-
 ---
 
 # The 4iAI™ Open Standard
