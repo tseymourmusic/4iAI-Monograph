@@ -6,6 +6,10 @@ subtitle: "Operational & Psychological Blueprint for Human Agency, Metacognitive
 
 author: "Tim Seymour, CGMA, ACMA"
 
+parent: "THE 4i™ STAGES"
+
+nav_order: 3
+
 date: "2026-08-11"
 
 description: "A foundational monograph establishing the metacognitive mechanisms, veto thresholds, and psychological frameworks required to prevent cognitive self-alienation and preserve sovereign human authorship."
