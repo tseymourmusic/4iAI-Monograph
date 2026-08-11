@@ -1,10 +1,10 @@
 ---
 
-title: "CASE STUDY: CS-2E-2026-0809-NSH"
+title: "CASE STUDY: CS-2E-2026-0809-NSH-4iAI™"
 
 subtitle: "Applied Neuro-Somatic Hardware Calibration and Real-Time Cybernetic Synthesis in an Adult Twice-Exceptional (2e) Systems Architect"
 
-parent: "MASTER DOSSIER: The Architecture of Asymmetry"
+parent: "MASTER DOSSIER: The 4iAI™ Architecture of Asymmetry"
 
 nav_order: 3
 
@@ -24,7 +24,7 @@ tags: [twice-exceptional, 2e, human-ai, executive-strategy, workflow-optimizatio
 
 ## **Applied Neuro-Somatic Hardware Calibration and Real-Time Cybernetic Synthesis in an Adult Twice-Exceptional (2e) Systems Architect**
 
-**Document ID:** CS-2E-2026-0809-NSH
+**Document ID:** CS-2E-2026-0809-NSH-4iAI™
 
 **Subject ID:** TS-4iAI-01 (Adult 2e / High-Capacity Systems Architect)
 
