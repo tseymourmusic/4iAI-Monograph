@@ -10,12 +10,8 @@
 
 ---
 
-### **Repository Map & Specification Architecture**
-* 📘 [Core Specification & Master Dossier](docs/MASTER_DOSSIER.md)
-* 🎓 [Educational & Curriculum Framework](monographs/EDUCATION_MONOGRAPH.md)
-* 🧠 [Neuro-Somatic Monograph](monographs/NEURO_SOMATIC_MONOGAPH.md)
-* 🏛️ [Executive Strategy Paper](monographs/EXECUTIVE_STRATEGY_PAPER.md)
-* 🔬 [Stage III Deep Dive: Introspection & Ownership](docs/STAGE_III_DEEP_DIVE.md)
+nav_order: 1
+
 ---
 
 # The 4i’s of Artistic Integrity™
