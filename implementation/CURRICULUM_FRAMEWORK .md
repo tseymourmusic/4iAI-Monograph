@@ -39,20 +39,20 @@ tags: [4iai, curriculum-open standard, cognitive-accelerator, introspection-audi
 
 ## **The 4-Stage Classroom Cycle**
 
-\*\*Stage I: Idea (Human Catalyst):\*\*Student sets the hypothesis and boundaries.  
+**Stage I: Idea (Human Catalyst):**Student sets the hypothesis and boundaries.  
 The student formulates a core hypothesis, research question, or creative concept **before** touching an AI interface.
 
 * **Student Action:** Write a 3-sentence "Core Intent Statement" defining what they want to solve or prove, including explicit constraints, domain context, and personal perspective.
 * **Rule:** No prompts may be issued until Stage I is documented.
 
-\*\*Stage II: Inspiration (Synthetic Mirror):\*\*Generating high-density baseline raw material.  
+**Stage II: Inspiration (Synthetic Mirror):**Generating high-density baseline raw material.  
 The student uses generative AI to produce an initial baseline, rapid synthesis, or alternative perspectives.
 
 * **Student Action:** Issue the Stage I prompt to the AI.
 * **Output Captured:** The raw, unedited AI output (the "Baseline Draft").
 * **The Trap Identified:** Recognizing that stopping here yields only "The Passable"—generic, uncalibrated, and prone to hallucinations.
 
-\*\*Stage III: Introspection (The Human Truth Filter):\*\*The core graded learning activity.  
+**Stage III: Introspection (The Human Truth Filter):**The core graded learning activity.  
 The student subjects the Stage II output to rigorous critique, factual verification, tone alignment, and logical stress testing.
 
 * **Student Action:** Complete the **Introspection Audit** using three mandatory lenses:
@@ -61,7 +61,7 @@ The student subjects the Stage II output to rigorous critique, factual verificat
   2. **Bias and Hallucination Spotting:** Highlight generic filler, unstated assumptions, or structural gaps in the AI's logic.
   3. **Voice and Personal Synthesis:** Identify where the AI output strays from the student's original Stage I intent.
 
-\*\*Stage IV: Integration (The Profound Artifact):\*\*Final human-driven deliverable.  
+**Stage IV: Integration (The Profound Artifact):**Final human-driven deliverable.  
 The student merges their Stage III audit with the raw material to construct the final work.
 
 * **Student Action:** Submit the final deliverable alongside the **4i Log** (Idea, Raw Prompt, Introspection Audit, Final Integration).
