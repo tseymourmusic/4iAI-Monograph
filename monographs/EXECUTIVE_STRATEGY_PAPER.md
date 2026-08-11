@@ -4,7 +4,7 @@ title: "EXECUTIVE STRATEGY PAPER: Managing Exceptional Cognitive Profiles"
 
 subtitle: "Optimised Performance Protocols and Peer-Level Symbiotic Human-AI Workflows for Twice-Exceptional (2e) Knowledge Workers in Traditional Operating Environments"
 
-Parent: "MASTER DOSSIER: The Architecture of Asymmetry"
+parent: "MASTER DOSSIER: The Architecture of Asymmetry"
 
 nav_order: 2
 
