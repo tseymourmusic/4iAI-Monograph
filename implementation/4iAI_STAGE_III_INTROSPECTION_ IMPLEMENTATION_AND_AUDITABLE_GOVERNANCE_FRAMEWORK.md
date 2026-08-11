@@ -4,6 +4,10 @@ title: "4iAI™ STAGE III INTROSPECTION IMPLEMENTATION & AUDITABLE GOVERNANCE FR
 
 subtitle: "Enterprise Reference Architecture, Canonical JSON-LD Audit Schema, and Regulatory Compliance Crosswalk"
 
+parent: "4iAI™ STAGE III DEEP DIVE: INTROSPECTION, MORAL AUTHORSHIP, AND THE PSYCHOLOGY OF OWNERSHIP"
+
+nav_order: 1
+
 author: "Tim Seymour, CGMA, ACMA"
 
 date: "2026-08-11"
