@@ -4,7 +4,7 @@ title: "CASE STUDY: CS-2E-2026-0809-NSH"
 
 subtitle: "Applied Neuro-Somatic Hardware Calibration and Real-Time Cybernetic Synthesis in an Adult Twice-Exceptional (2e) Systems Architect"
 
-Parent: "MASTER DOSSIER: The Architecture of Asymmetry"
+parent: "MASTER DOSSIER: The Architecture of Asymmetry"
 
 nav_order: 3
 
