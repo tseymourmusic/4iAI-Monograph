@@ -1,3 +1,21 @@
+---
+
+title: "4iAI™ STAGE IV DEEP DIVE: INTEGRATION, THE RECOVERY OF SOVEREIGN AUTHORSHIP"
+
+subtitle: "Operational & Psychological Blueprint for Human Agency, Metacognitive Verification, and Mitigating Procedural Trust"
+
+author: "Tim Seymour, CGMA, ACMA"
+
+date: "2026-08-11"
+
+description: "A foundational monograph establishing the metacognitive mechanisms, veto thresholds, and psychological frameworks required to prevent cognitive self-alienation and preserve sovereign human authorship."
+
+tags: [4iai, stage-iv, integration, moral-authorship, psychology-of-ownership, procedural-trust, evaluative-displacement, sovereign-author, human-ai-symbiosis, open-standard]
+
+---
+
+[![DOI](https://zenodo.org/badge/1325533231.svg)](https://doi.org/10.5281/zenodo.21827755)
+
 # **4iAI™ STAGE IV DEEP DIVE: INTEGRATION, THE RECOVERY OF SOVEREIGN AUTHORSHIP**
 
 **Author:** Tim Seymour, CGMA, ACMA
@@ -5,6 +23,10 @@
 **Specification:** 4iAI™ Stage IV Operational and Philosophical Blueprint
 
 **Classification:** Open Standard (MIT License)
+
+**Foundational Protocol:** [The 4iAI™ open standard Monograph](../README.md) and [Executive Strategy Monograph](../monographs/EXECUTIVE_STRATEGY_PAPER.md)
+
+![4iAI Open Standard](../4iAI-open-standard-architecture.png)
 
 ## **1. The Philosophical Twist: The Return of the External Genius**
 
