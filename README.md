@@ -8,12 +8,6 @@
 
 > 🌐 **Official Site:** [4iai.org](https://4iai.org) | 📄 **Author:** Tim Seymour, CGMA, ACMA
 
----
-
-nav_order: 1
-
----
-
 # The 4i’s of Artistic Integrity™
 
 **I**DEA · **I**NSPIRATION · **I**NTROSPECTION · **I**NTEGRATION
