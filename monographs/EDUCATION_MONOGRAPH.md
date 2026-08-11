@@ -52,7 +52,6 @@ Educational institutions have largely responded with reactive defence mechanisms
 
 #### **Traditional Model (Cognitive Atrophy):**
 
-|-|-|-|-|-|-|-|
 |Prompt|→|Uncalibrated LLM Output|→|Copy/Paste|→|"The Passable" Submission|
 
 #### **4iAI™ Educational Model (Cognitive Elevation):**
