@@ -109,7 +109,6 @@ The Dialogic Framework resolves this paradox.
 To implement dialogic prompting in professional or academic environments, adopt the following operational sequence:
 
 |STEP 1: EXPLORE "Discuss the core thesis and morals."|→|STEP 2: CHALLENGE "Push back on edge cases and risks."|→|STEP 3: TRIGGER "Synthesise dialogue into a SOP."|→|STEP 4: VALIDATE "Execute Stage III Sovereign Check."|
-|-|-|-|-|-|-|-|
 
 1. **Phase 1: Exploratory Dialectic (Stage I)**
 
