@@ -4,7 +4,7 @@ title: "CASE STUDY: CS-2E-2026-0809-NSH-4iAI™"
 
 subtitle: "Applied Neuro-Somatic Hardware Calibration and Real-Time Cybernetic Synthesis in an Adult Twice-Exceptional (2e) Systems Architect"
 
-parent: "MASTER DOSSIER: The 4iAI™ Architecture of Asymmetry"
+parent: "EXECUTIVE STRATEGY PAPER: 4iAI™ Managing Exceptional Cognitive Profiles"
 
 nav_order: 3
 
