@@ -6,7 +6,7 @@ subtitle: "Beyond 'The Passable': Eliminating Passive AI Consumption in Higher a
 
 has_children: true
 
-nav_order: 3
+nav_order: 2
 
 author: "Tim Seymour, CGMA, ACMA"
 
