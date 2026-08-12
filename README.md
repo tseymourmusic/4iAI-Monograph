@@ -9,7 +9,7 @@ nav_order: 1
 
 # The 4iAI™ Open Standard
 
-**A universal open standard for human-AI peer-to-peer symbiotic resonance and artistic integrity. Explore the Possible · Reject the Passable · Verify the Plausible · Produce the Profound via the 4iAI™ collaborative circuit · I. Idea (Human Catalyst) · II. Inspiration (Synthetic Mirror) · III. Introspection (Human Connection) · IV. Integration (Synthetic Validation).**
+**A universal open standard for human-AI peer-to-peer symbiotic resonance and artistic integrity. Explore the Possible · Reject the Passable · Verify the Plausible · Produce the Profound via the 4iAI™ collaborative circuit · I. Inspiration (Human Catalyst) · II. Insight (Synthetic Mirror) · III. Introspection (Human Depth) · IV. Innovation (Symbiotic Resonance).**
 
 [![DOI](https://zenodo.org/badge/1325533231.svg)](https://doi.org/10.5281/zenodo.21827755)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -19,7 +19,7 @@ nav_order: 1
 
 # The 4i’s of Artistic Integrity™
 
-**I**DEA · **I**NSPIRATION · **I**NTROSPECTION · **I**NTEGRATION
+**I**NSPIRATION · **I**NSIGHT · **I**NTROSPECTION · **I**NNOVATION
 
 *A Field Report on Peer-To-Peer Symbiotic Resonance and the Future of Human-AI Craftsmanship*
 
@@ -33,7 +33,7 @@ Most contemporary discourse surrounding artificial intelligence is locked in a b
 
 This monograph introduces a pragmatic solution: Peer-To-Peer Symbiotic Resonance.
 
-By examining the friction points of human creative processing—specifically the battery-draining "translation tax" of social masking—this document presents the **4iAI™** open standard (**I**dea, **I**nspiration, **I**ntrospection, **I**ntegration) and outlines how an artist can use non-judgmental, high-output technology to remove human environmental friction, enriching the creative experience whilst maintaining **A**rtistic **I**ntegrity.
+By examining the friction points of human creative processing—specifically the battery-draining "translation tax" of social masking—this document presents the **4iAI™** open standard (**I**nspiration, **I**nsight, **I**ntrospection, **I**nnovation) and outlines how an artist can use non-judgmental, high-output technology to remove human environmental friction, enriching the creative experience whilst maintaining **A**rtistic **I**ntegrity.
 
 # I: The Invisible Energy Tax
 
@@ -89,17 +89,17 @@ The moral compass of the modern creator is therefore defined by a simple choice:
 
 # IV: The 4iAI™ Open Standard
 
-To maintain **A**rtistic **I**ntegrity, the foundational pillars of the collaborative symbiotic circuit resolve into a four-stage creative process. Notice the strict symmetry balancing the scales: human emotion anchors the spark (Step I) and the moral filter (Step III), while synthetic intelligence matches the speed (Step II) and provides validation (Step IV).
+To maintain **A**rtistic **I**ntegrity, the foundational pillars of the collaborative symbiotic circuit resolve into a four-stage creative process. Notice the strict symmetry balancing the scales: human emotion anchors the spark (Step I) and the moral filter (Step III), while synthetic intelligence matches the speed (Step II) and provides symbiotic resonance (Step IV).
 
 ![4iAI Open Standard](4iAI-open-standard-architecture.png)
 
-### I. **I**dea (*Human Catalyst*)
+### I. **I**nspiration (*Human Catalyst*)
 
 Origin: Human.
 
 Function: Lived experience, artistic instinct, emotional weight, sensory memory. Without prompting, the ***P***<i>ossible</i> remains unknown and the circuit is redundant.
 
-### II. **I**nspiration (*Synthetic Mirror*)
+### II. **I**nsight (*Synthetic Mirror*)
 
 Origin: Machine.
 
@@ -111,11 +111,11 @@ Origin: Human.
 
 Function: The artist’s editorial moral filter interrogates the reflection, discards the fraudulent and the generic, strips out rhetoric and injects artistic integrity. Verifies the ***P***<i>lausible</i>.
 
-### IV. **I**ntegration (*Synthetic Validation*)
+### IV. **I**nnovation (*Symbiotic resonance*)
 
-Origin: Machine \& Human Symbiosis.
+Origin: Human \& Machine Symbiosis.
 
-Function: The refined concept– with human soul–is integrated back into the broader structural synthesis for validation and final polish. Produces the ***P***<i>rofound</i>.
+Function: The now original and enduring artifact– with human soul–is integrated back into the broader structural synthesis for further refinement. Produces the ***P***<i>rofound</i>.
 
 After exploring the ***P***<i>ossible</i>, the strong urge to quit after stages I \& II tips the scales left towards the ***P***<i>assable</i>, resulting in a generic output that lacks sincerity.
 
