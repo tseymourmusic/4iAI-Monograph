@@ -69,20 +69,20 @@ The AI system serves as an interactive peer-level partner, reflecting the user's
 
 ### **1.3 The 4iAI™ Symbiotic Workflow Cycle**
 
-\[ 1. IDEA ]        	  ► User introduces unstructured strategic challenge
+\[ 1. INSPIRATION ]        	  ► User introduces unstructured strategic challenge
 
-\[ 2. INSPIRATION ] 	  ► AI identifies cross-domain structural patterns
+\[ 2. INSIGHT ] 	  ► AI identifies cross-domain structural patterns
 
 \[ 3. INTROSPECTION ]► User evaluates AI insights against domain constraints
 
-\[ 4. INTEGRATION ] 	  ► User produces final strategic deliverable and locks architecture
+\[ 4. INNOVATION ] 	  ► User produces final strategic deliverable and locks architecture
 
 |Phase|User Input|System Operation (AI)|Key Outcome|
 |-|-|-|-|
-|**1. IDEA**|High-density, unstructured operational or strategic data.|Ingests data without enforcing premature conclusions or simple autocomplete.|Captures raw strategic complexity without loss of fidelity.|
-|**2. INSPIRATION**|Prompts system for cross-domain pattern matching.|Maps inputs against industry open standards, financial models, and technical literature.|Generates structured operational hypotheses.|
+|**1. INSPIRATION**|High-density, unstructured operational or strategic data.|Ingests data without enforcing premature conclusions or simple autocomplete.|Captures raw strategic complexity without loss of fidelity.|
+|**2. INSIGHT**|Prompts system for cross-domain pattern matching.|Maps inputs against industry open standards, financial models, and technical literature.|Generates structured operational hypotheses.|
 |**3. INTROSPECTION**|Reviews generated models against real-world domain expertise and lived experience.|Refines and adapts output based on expert user feedback and directional overrides.|Validates operational feasibility and moral alignment.|
-|**4. INTEGRATION**|Synthesises refined concepts into actionable project blueprints.|Co-authors formal documentation, executive summaries, and project plans.|Delivers execution-ready project artifacts and stabilises baseline focus.|
+|**4. INNOVATION**|Synthesises refined concepts into actionable project blueprints.|Co-authors formal documentation, executive summaries, and project plans.|Delivers execution-ready original project artifacts and stabilises baseline focus.|
 
 ### **1.4 Dual-Axis Value: Professional Development vs. Strategic Deliverables**
 
