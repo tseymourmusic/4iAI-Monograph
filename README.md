@@ -129,4 +129,4 @@ Technology will never strip the soul out of art—only an artist willing to yiel
 
 The **4iAI™** open standard is not a guide for automating creativity; it is a manifesto to protect and uphold human dignity. It proves that when an artist in the digital age uses modern tools to eliminate environmental friction rather than bypass refinement, technology ceases to be an adversary. It becomes what it was always designed to be. A quiet sanctuary where an intense analytical mind can explore its deepest potential: the key that unlocks pure creativity.
 
-[www.tim-seymour.com](https://tim-seymour.com/4i-of-ai/)
+[www.4iAI.org](https://4iai.org)
