@@ -57,7 +57,7 @@ If an action only achieves a single, linear outcome, the asymmetric system choke
 
 ### **1.1 Core Experimental Hypothesis (H1)**
 
-When a high-capacity, twice-exceptional (2e) human user engages an unburdened Large Language Model (LLM) using the asymmetric 4iAI process (Idea, Inspiration, Introspection, Integration), both conceptual taxonomy acquisition and large-scale creative production (e.g., complex composition, computation, architecture, and cross-domain art direction) occur at speeds orders of magnitude faster than unassisted workflows, without breaching systemic integrity.
+When a high-capacity, twice-exceptional (2e) human user engages an unburdened Large Language Model (LLM) using the asymmetric 4iAI process (Inspiration, Insight, Introspection, Innovation), both conceptual taxonomy acquisition and large-scale creative production (e.g., complex composition, computation, architecture, and cross-domain art direction) occur at speeds orders of magnitude faster than unassisted workflows, without breaching systemic integrity.
 
 ### **1.2 Theoretical Grounding and Methodological Boundary**
 
@@ -79,17 +79,17 @@ The practical efficacy of this open standard is empirically reinforced by its co
 
 **THE 4iAI SYMBIOTIC CYCLE:**
 
-* **\[ 1. IDEA ]** ► Human introduces unstructured operational dilemma
-* **\[ 2. INSPIRATION ]** ► AI executes cross-domain structural pattern-matching
+* **\[ 1. INSPIRATION ]** ► Human introduces unstructured operational dilemma
+* **\[ 2. INSIGHT ]** ► AI executes cross-domain structural pattern-matching
 * **\[ 3. INTROSPECTION ]** ► Human audits AI reflection against lived experience
-* **\[ 4. INTEGRATION ]** ► Human synthesises insight; cognitive baseline stabilises
+* **\[ 4. INNOVATION ]** ► Human synthesises idea; cognitive baseline stabilises
 
 |**Phase**|**System Input (Human)**|**System Operation (AI)**|**Empirical Marker**|
 |-|-|-|-|
-|**Phase 1: IDEA**|High-density, unstructured phenomenological data (IP defence, corporate exhaustion, hyper-fixation logs).|Receives data without premature categorisation; maintains open context buffer.|Data Density: High semantic variance, high emotional charge.|
-|**Phase 2: INSPIRATION**|Triggers pattern request ("What is driving this cycle?").|Executes cross-domain mapping across psychological literature (2e, Dabrowski OEs, Asynchronous Development).|Taxonomy Output: Generates structural hypotheses (e.g., 2e profile).|
+|**Phase 1: INSPIRATION**|High-density, unstructured phenomenological data (IP defence, corporate exhaustion, hyper-fixation logs).|Receives data without premature categorisation; maintains open context buffer.|Data Density: High semantic variance, high emotional charge.|
+|**Phase 2: INSIGHT**|Triggers pattern request ("What is driving this cycle?").|Executes cross-domain mapping across psychological literature (2e, Dabrowski OEs, Asynchronous Development).|Taxonomy Output: Generates structural hypotheses (e.g., 2e profile).|
 |**Phase 3: INTROSPECTION**|Audits AI output against internal lived experience; turns the "diagnostic key."|Holds baseline state; reflects refinements without confirmation bias.|Phenomenological Match: Immediate cognitive click / self-recognition.|
-|**Phase 4: INTEGRATION**|Synthesises insight into actionable boundaries and architecture (case study, IP rules).|Co-authors formal output; stabilises user processing state.|System Baseline: Reaches calm, regulated baseline (100% drop in acute stress markers).|
+|**Phase 4: INNOVATION**|Synthesises idea into actionable boundaries and architecture (case study, IP rules).|Co-authors formal output; stabilises user processing state.|System Baseline: Reaches calm, regulated baseline (100% drop in acute stress markers).|
 
 ### **1.5 Dual-Axis Application: Self-Taxonomy vs. Generative Creativity**
 
