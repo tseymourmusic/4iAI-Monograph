@@ -1,6 +1,6 @@
 ---
 
-title: "4iAI™ STAGE I AND II DEEP DIVE: IDEA AND INSPIRATION DIALOGIC PROMPTING, CONTEXT SATURATION, AND SYMBIOTIC RESONANCE"
+title: "4iAI™ STAGE I AND II DEEP DIVE: INSPIRATION AND INSIGHT DIALOGIC PROMPTING, CONTEXT SATURATION, AND SYMBIOTIC RESONANCE"
 
 subtitle: "Operational & Psychological Blueprint for Human Agency, Metacognitive Verification, and Mitigating Procedural Trust"
 
@@ -14,13 +14,13 @@ date: "2026-08-11"
 
 description: "A foundational monograph establishing the metacognitive mechanisms, veto thresholds, and psychological frameworks required to prevent cognitive self-alienation and preserve sovereign human authorship."
 
-tags: [4iai, stage-i, 4iai, stage-ii, idea, inspiration, moral-authorship, psychology-of-ownership, procedural-trust, evaluative-displacement, sovereign-author, human-ai-symbiosis, open-standard]
+tags: [4iai, stage-i, 4iai, stage-ii, inspiration, insight, moral-authorship, psychology-of-ownership, procedural-trust, evaluative-displacement, sovereign-author, human-ai-symbiosis, open-standard]
 
 ---
 
 [![DOI](https://zenodo.org/badge/1325533231.svg)](https://doi.org/10.5281/zenodo.21827755)
 
-# **4iAI™ STAGE I AND II DEEP DIVE: IDEA AND INSPIRATION DIALOGIC PROMPTING, CONTEXT SATURATION, AND SYMBIOTIC RESONANCE**
+# **4iAI™ STAGE I AND II DEEP DIVE: INSPIRATION AND INSIGHT DIALOGIC PROMPTING, CONTEXT SATURATION, AND SYMBIOTIC RESONANCE**
 
 **Author:** Tim Seymour, CGMA, ACMA
 
@@ -47,9 +47,9 @@ If a transactional prompt carries minimal human signal, the model fills the conc
 
 When an operator relies on transactional prompting, the heavy lifting of aligning the text with human intent is entirely deferred to Stage III Introspection. This creates extreme cognitive friction, manual rewriting, and eventual operator fatigue, leading directly to the **procedural trust trap** where the human defers subject matter expertise over to the synthetic collaborator.
 
-## **2. Stage I (Idea) Expanded: The Dialectical Pre-Prompt**
+## **2. Stage I (Inspiration) Expanded: The Dialectical Pre-Prompt**
 
-Within the 4iAI™ framework, **Stage I (Idea)** is not restricted to a static, one-shot prompt string. For complex, high-dimensional architecture, Stage I is operationalised as a **Dialectical Resonance Loop**—a structured, back-and-forth dialogue executed *prior* to requesting a formal deliverable.
+Within the 4iAI™ framework, **Stage I (Inspiration)** is not restricted to a static, one-shot prompt string. For complex, high-dimensional architecture, Stage I is operationalised as a **Dialectical Resonance Loop**—a structured, back-and-forth dialogue executed *prior* to requesting a formal deliverable.
 
 During this pre-prompt dialogue, the human operator uses the AI as a sounding board to explore:
 
@@ -68,9 +68,9 @@ By engaging in dialectical dialogue before issuing the generation trigger, the o
 |**Model Function**|External Generator (calculating averages).|**High-Bandwidth Cognitive Mirror.**|
 |**Stage III Impact**|Heavy manual editing; high friction.|Rapid logic validation; sovereign approval.|
 
-## **3. Stage II (Inspiration) Precision: The Synthetic Mirror**
+## **3. Stage II (Insight) Precision: The Synthetic Mirror**
 
-When Stage II (Inspiration) is triggered after a thorough dialectical dialogue, the nature of the model's output fundamentally transforms.
+When Stage II (Insight) is triggered after a thorough dialectical dialogue, the nature of the model's output fundamentally transforms.
 
 Because the context window contains the full history of the debate, rejected ideas, refined definitions, and established boundaries, the model's token probability space is tightly constrained. The output ceases to be generic statistical generation; it becomes a **precision synthetic mirror**.
 
